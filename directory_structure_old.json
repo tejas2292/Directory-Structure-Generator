@@ -1,0 +1,4267 @@
+{
+    "Controls": {
+        "GPN-0000-0052": {
+            "0900766b8139ebf7.pdf": null,
+            "2D Drawings": {
+                "DXF files": {
+                    "09301.dxf": null,
+                    "09308.dxf": null,
+                    "09316.dxf": null,
+                    "09320.dxf": null,
+                    "09360.dxf": null,
+                    "09362.dxf": null,
+                    "09363.dxf": null,
+                    "09363_with_LED.dxf": null,
+                    "09368.dxf": null,
+                    "9301.dxf": null,
+                    "9302.dxf": null,
+                    "9311.dxf": null,
+                    "9321.dxf": null,
+                    "9351.dxf": null,
+                    "9352.dxf": null,
+                    "9360 BASIC.dxf": null,
+                    "9361.dxf": null,
+                    "9362.dxf": null,
+                    "9363.dxf": null,
+                    "9364.dxf": null,
+                    "9365 OUTPUT.dxf": null,
+                    "9366 PLUS.dxf": null,
+                    "9367 INPUT.dxf": null,
+                    "9368.dxf": null,
+                    "9369 TIMER.dxf": null
+                }
+            },
+            "3D CAD": {
+                "3D files": {
+                    "09301.stp": null,
+                    "09308.stp": null,
+                    "09316.stp": null,
+                    "09320.stp": null,
+                    "09360.stp": null,
+                    "09362.stp": null,
+                    "09363.stp": null,
+                    "09363_with_LED.stp": null,
+                    "09368.stp": null,
+                    "9302.stp": null,
+                    "9311.stp": null,
+                    "9321.stp": null,
+                    "9351.stp": null,
+                    "9352.stp": null,
+                    "9360 BASIC.stp": null,
+                    "9361.stp": null,
+                    "9362.stp": null,
+                    "9363.stp": null,
+                    "9364.stp": null,
+                    "9365 OUTPUT.stp": null,
+                    "9366 PLUS.stp": null,
+                    "9367 INPUT.stp": null,
+                    "9368.stp": null,
+                    "9369 TIMER.stp": null,
+                    "GPN-0000-0052_93017024.stp": null
+                }
+            }
+        },
+        "GPN-0000-0055": {
+            "0900766b816d4f37.pdf": null,
+            "2D Drawings": {
+                "DXF files": {
+                    "3451.dxf": null,
+                    "3451_x019.dxf": null,
+                    "3481.dxf": null
+                }
+            },
+            "3D CAD": {
+                "3D files": {
+                    "3451_x019.stp": null,
+                    "3481.stp": null,
+                    "GPN-0000-0055_345170240010.stp": null
+                }
+            }
+        },
+        "GPN-0000-0128": {
+            "3D CAD": {
+                "GPN-0000-0128_px0765-03s.stp": null
+            },
+            "Standard_power.pdf": null
+        },
+        "GPN-0000-0129": {
+            "3D CAD": {
+                "GPN-0000-0129_px0731_p.stp": null
+            },
+            "Standard_power.pdf": null
+        },
+        "GPN-0000-0170": {
+            "3D CAD": {
+                "GPN-0000-0170_1053660000.stp": null
+            }
+        },
+        "GPN-0000-0171": {
+            "0900766b81241d90.pdf": null
+        },
+        "GPN-0000-0172": {
+            "Catalogue.pdf": null,
+            "GPN-0000-0172 Datasheet.pdf": null,
+            "GPN-0000-0172 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0184": {
+            "3D CAD": {
+                "GPN-0000-0184_1053760000.stp": null
+            }
+        },
+        "GPN-0000-0233": {
+            "GPN-0000-0233 Datasheet.pdf": null,
+            "GPN-0000-0233 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0398": {
+            "2D Drawings": {
+                "UPN-EDGE-APL01_OD-20211223.pdf": null
+            },
+            "3D CAD": {
+                "00_upn-edge-pro-20210924.easm": null,
+                "GPN-0000-0398.easm": null,
+                "UPN-EDGE-APL01_OD-20211223.pdf": null
+            }
+        },
+        "GPN-0000-0444": {
+            "2813393.pdf": null,
+            "3D CAD": {
+                "GPN-0000-0444_3.5mm Jack v4.step": null
+            }
+        },
+        "GPN-0000-0510": {
+            "3D CAD": {
+                "GPN-0000-0510_Power Entry Module.stp": null
+            },
+            "Datasheet": {
+                "3690186.pdf": null
+            }
+        },
+        "GPN-0000-0601": {
+            "3D CAD": {
+                "GPN_0000-0601_1053860000.stp": null
+            }
+        },
+        "GPN-0000-0754": {
+            "140558-CCGX__Venus_GX__Cerbo_GX__Cerbo-S_GX_Manual-pdf-en.pdf": null,
+            "2D Drawing": {
+                "Cerbo-GX.pdf": null
+            },
+            "3D Model": {
+                "Cerbo-GX.STEP": null
+            },
+            "6292-ESS_design_and_installation_manual-pdf-en.pdf": null,
+            "Datasheet-Cerbo-GX-GX-Touch-EN.pdf": null
+        },
+        "GPN-0000-0794": {
+            "GPN-0000-0794 Datasheet.pdf": null,
+            "GPN-0000-0794 ROHS_Certificate.pdf": null,
+            "GPN-0000-0794 Schematic.pdf": null
+        },
+        "GPN-0000-0812": {
+            "GPN-0000-0812_09U6060LG.STEP": null
+        },
+        "GPN-0000-0907": {
+            "1054460000.stp": null
+        },
+        "GPN-0000-0947": {
+            "1702845.pdf": null
+        },
+        "GPN-0000-1055": {
+            "2869811.pdf": null
+        },
+        "GPN-0000-1092": {
+            "GPN-0000-1092 Datasheet.pdf": null,
+            "GPN-0000-1092 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1096": {
+            "GPN-0000-1096 Datasheet.pdf": null,
+            "GPN-0000-1096 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1145": {
+            "GPN-0000-1145 - Shortcut.lnk": null
+        },
+        "GPN-0000-1158": {
+            "GPN-0000-1158 Datasheet.pdf": null,
+            "GPN-0000-1158 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1170": {
+            "3D CAD": {
+                "GPN-0000-1170_Timer Relay v2.step": null
+            },
+            "GPN-0000-1170 Datasheet.pdf": null,
+            "GPN-0000-1170 Installation Manual.pdf": null,
+            "GPN-0000-1170 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1195": {
+            "2D Drawings": {
+                "MultiPlus-II-24V-48V-3000VA-230V-PMP242305010-PMP482305010.pdf": null
+            },
+            "3D CAD": {
+                "MultiPlus-II-24V-48V-3000VA-230V-PMP242305010-PMP482305010-(stp).STEP": null
+            },
+            "Datasheet": {
+                "15296-VE_Bus_Configuration_guide-pdf-en.pdf": null,
+                "32424-MultiPlus-II___Quattro-II_120V-230V-pdf-en.pdf": null,
+                "Automatic_Generator_start_stop-en.pdf": null,
+                "Datasheet-MultiPlus-II-inverter-charger-EN.pdf": null,
+                "Manual-Connecting-other-lithium-battery-systems-to-Multis-and-Quattros-EN.pdf": null,
+                "Quick-Install-Guide-MultiPlus-II-24V48V-3000VA-48V-5000VA-230Vac-EN.pdf": null,
+                "Quick-Install-Guide-MultiPlus-II-48V-3000VA-230Vac-EN.pdf": null,
+                "SLD-Multiplus-II-AC-PV-and-gen-off-grid-2019-05-21.pdf": null,
+                "SLD-Multiplus-II-AC-PV-and-grid-backup-2019-05-2-(1).pdf": null
+            },
+            "GPN-0000-1195_READ ME.txt": null
+        },
+        "GPN-0000-1209": {
+            "GPN-0000-1208 ROHS_Certificate.pdf": null,
+            "GPN-0000-1209 Datasheet.pdf": null
+        },
+        "GPN-0000-1213": {
+            "GPN-0000-1213 Datasheet.pdf": null,
+            "GPN-0000-1213 ROHS.pdf": null
+        },
+        "GPN-0000-1214": {
+            "3782273.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1214_PDU6WAYSURGE3LED.STEP": null
+            }
+        },
+        "GPN-0000-1223": {
+            "GPN-0000-1223 Installation.pdf": null,
+            "GPN-0000-1223 Specifications.pdf": null
+        },
+        "GPN-0000-1244": {
+            "3D CAD": {
+                "DRDN40.stp": null
+            },
+            "GPN-0000-1244 Datasheet.pdf": null,
+            "GPN-0000-1244 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1245": {
+            "GPN-0000-1245 Datasheet.pdf": null,
+            "GPN-0000-1245 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1247": {
+            "2D Drawing": {
+                "dim_mtx__26482s2_3474 (1).pdf": null,
+                "GPN-0000-1247_MS3474W20-39S Drawing.dxf": null,
+                "MS3474W20-39S.pdf": null
+            },
+            "3D CAD": {
+                "MS3474W20-39S.stp": null
+            },
+            "Datasheet": {
+                "169-180_mb_series (1).pdf": null,
+                "accessories1.pdf": null,
+                "AMPHD00159_7-2535759.pdf": null,
+                "assembly1.pdf": null,
+                "contacts-tooling1.pdf": null
+            },
+            "Environmental Documents": {
+                "AMPHE00218-1.pdf": null
+            },
+            "GPN-0000-1247_READ ME.txt": null,
+            "Product Change Notifications": {}
+        },
+        "GPN-0000-1248": {
+            "2D Drawing PDF": {
+                "MS3475W20-39P.pdf": null
+            },
+            "3D CAD": {
+                "MS3475W20-39P.stp": null
+            },
+            "Datasheet": {
+                "169-180_mb_series.pdf": null,
+                "accessories1.pdf": null,
+                "AMPHD00159_8-2535805.pdf": null,
+                "assembly1.pdf": null,
+                "contacts-tooling1.pdf": null,
+                "dim_mtx__26482s2_3475 (1).pdf": null
+            },
+            "Environmental Documents": {
+                "AMPHE00218-1.pdf": null
+            },
+            "GPN-0000-1248_READ ME.txt": null,
+            "Product Change Notifications": {}
+        },
+        "GPN-0000-1249": {
+            "3D CAD": {
+                "RJFTV6MZN.stp": null
+            },
+            "Datasheet": {
+                "Amphenol_01212020_RJF6A-1715538.pdf": null,
+                "RJFTV.pdf": null
+            },
+            "Environmental Documents": {
+                "AMPH-E-A0002219063-1.pdf": null,
+                "AMPHE00218-1.pdf": null
+            },
+            "GPN-0000-1249_READ ME.txt": null,
+            "Product Change Notifications": {}
+        },
+        "GPN-0000-1250": {
+            "3D CAD": {
+                "GPN-0000-1250_RJF6A7A1ZN.stp": null
+            },
+            "Datasheet": {
+                "catalogue_RJF_Cat6-368531.pdf": null,
+                "RJF_Series_Ethernet_Conn_System.pdf": null
+            },
+            "Environmental Documents": {
+                "AMPH-E-A0002219063-1.pdf": null,
+                "AMPHE00218-1.pdf": null
+            },
+            "GPN-0000-1250_READ ME.txt": null,
+            "Product Change Notifications": {}
+        },
+        "GPN-0000-1251": {
+            "2D CAD": {
+                "DOC-ACS-004-VCCM600-Parallel-and-Series-link.pdf": null,
+                "DOC-ACS-005-VCCM600-Cable-Sets-and-Heatsinks.pdf": null,
+                "DOC-ACS-008-VCCM600-Series-Tracker.pdf": null,
+                "DOC-DWG-001-VCCM600-Customer-Viewable-Dimensional-2D-Drawing.pdf": null,
+                "VCCM_3D.dwg": null
+            },
+            "3D CAD": {
+                "VCCM_3D.igs": null,
+                "VCCM_3D.stp": null
+            },
+            "Compliance Documents": {
+                "DOC-SAF-011-VCCM600S-CE-UKCA-Declaration.pdf": null,
+                "DOC-SAF-029-VCCM600S-UL-CB-Certificate-62368.pdf": null,
+                "DOC-SAF-030-VCCM600S-UL-CB-Certificate-60950.pdf": null,
+                "DOC-SAF-043-VCCM600S-UL-CB-Certificate-62368-Edition-3.pdf": null
+            },
+            "Datasheet": {
+                "DOC-DTS-005-VCCM600S-Industrial-Datasheet.pdf": null,
+                "DOC-DTS-019-VCCM600-Series-Output-A-Datasheet.pdf": null,
+                "DOC-DTS-020-VCCM600-Series-Output-B-Datasheet.pdf": null,
+                "DOC-DTS-021-VCCM600-Series-Output-C-Datasheet.pdf": null,
+                "DOC-DTS-022-VCCM600-Series-Output-D-Datasheet.pdf": null
+            },
+            "Environmental Documents": {
+                "DOC-SAF-021-VCCM600-EMC-Report-16E5939-4.pdf": null,
+                "DOC-SAF-037-VCCM600-HALT-Report.pdf": null,
+                "VCCM600-Environmental-Verification-Test-Report.pdf": null
+            },
+            "GPN-0000-1251_READ ME.txt": null,
+            "Manuals": {
+                "DOC-APN-002-Hi-Pot-Testing-Application-Note-Remote-Voltage-and-Current-Control.pdf": null,
+                "DOC-APN-004-Current-Share-For-Parallel-Connected-Seriesed-Outputs-App-Note.pdf": null,
+                "DOC-APN-007-VCCM600-400Hz-Operation-Application-Note.pdf": null,
+                "DOC-MN-004-VCCM600-Series-Installation-Manual.pdf": null,
+                "DOC-MN-007-VCCM600-User-Manual.pdf": null
+            },
+            "Product Change Notifications": {}
+        },
+        "GPN-0000-1252": {
+            "2D CAD": {
+                "DOC-ACS-004-VCCM600-Parallel-and-Series-link.pdf": null,
+                "DOC-ACS-005-VCCM600-Cable-Sets-and-Heatsinks.pdf": null,
+                "DOC-ACS-008-VCCM600-Series-Tracker.pdf": null,
+                "DOC-DWG-001-VCCM600-Customer-Viewable-Dimensional-2D-Drawing.pdf": null,
+                "VCCM_3D.dwg": null
+            },
+            "3D CAD": {
+                "VCCM_3D.igs": null,
+                "VCCM_3D.stp": null
+            },
+            "Compliance Documents": {
+                "DOC-SAF-011-VCCM600S-CE-UKCA-Declaration.pdf": null,
+                "DOC-SAF-029-VCCM600S-UL-CB-Certificate-62368.pdf": null,
+                "DOC-SAF-030-VCCM600S-UL-CB-Certificate-60950.pdf": null,
+                "DOC-SAF-043-VCCM600S-UL-CB-Certificate-62368-Edition-3.pdf": null
+            },
+            "Datasheet": {
+                "DOC-DTS-021-VCCM600-Series-Output-C-Datasheet.pdf": null
+            },
+            "Environmental Documents": {},
+            "GPN-0000-1252_READ ME.txt": null
+        },
+        "GPN-0000-1253": {
+            "2D CAD": {
+                "DOC-ACS-004-VCCM600-Parallel-and-Series-link.pdf": null,
+                "DOC-ACS-005-VCCM600-Cable-Sets-and-Heatsinks.pdf": null,
+                "DOC-ACS-008-VCCM600-Series-Tracker.pdf": null,
+                "DOC-DWG-001-VCCM600-Customer-Viewable-Dimensional-2D-Drawing.pdf": null,
+                "VCCM_3D.dwg": null
+            },
+            "3D CAD": {
+                "VCCM_3D.igs": null,
+                "VCCM_3D.stp": null
+            },
+            "Compliance Documents": {
+                "DOC-SAF-011-VCCM600S-CE-UKCA-Declaration.pdf": null,
+                "DOC-SAF-029-VCCM600S-UL-CB-Certificate-62368.pdf": null,
+                "DOC-SAF-030-VCCM600S-UL-CB-Certificate-60950.pdf": null,
+                "DOC-SAF-043-VCCM600S-UL-CB-Certificate-62368-Edition-3.pdf": null
+            },
+            "Datasheet": {
+                "DOC-DTS-022-VCCM600-Series-Output-D-Datasheet.pdf": null
+            },
+            "Environmental Documents": {},
+            "GPN-0000-1253_READ ME.txt": null
+        },
+        "GPN-0000-1254": {
+            "2D Drawing": {
+                "GPN-0000-1254_85107A2041S5S16 Drawing.dxf": null
+            },
+            "3D CAD": {
+                "85107A2041S5$16.stp": null
+            },
+            "Compliance Documents": {},
+            "Datasheet": {
+                "2801150.pdf": null
+            },
+            "Environmental Documents": {
+                "ETRP-E-A0005429945-1.pdf": null,
+                "SOSU-E-A0015180591-1.xlsx": null
+            },
+            "GPN-0000-1254_READ ME.txt": null
+        },
+        "GPN-0000-1255": {
+            "3D CAD Model": {
+                "GPN-0000-1255_RS Enclosure_188-1316.step": null
+            },
+            "GPN-0000-1255 Datasheet.pdf": null,
+            "GPN-0000-1255 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1256": {
+            "3D CAD": {
+                "85136RG2041P5$.stp": null
+            },
+            "Compliance Documents": {},
+            "Datasheet": {
+                "2801150.pdf": null,
+                "dim_sou_851_23.pdf": null
+            },
+            "Environmental Documents": {},
+            "GPN-0000-1256_READ ME.txt": null
+        },
+        "GPN-0000-1257": {
+            "GPN-0000-1257 Datasheet.pdf": null,
+            "GPN-0000-1257 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1258": {
+            "3D CAD": {
+                "85107A123P50.stp": null
+            },
+            "Compliance Documents": {},
+            "Datasheet": {
+                "2801150.pdf": null,
+                "dim_sou_851_11 (2).pdf": null
+            },
+            "Environmental Documents": {},
+            "GPN-0000-1258_READ ME.txt": null,
+            "Product Change Notice": {
+                "Souriau_BM_887_8500_filler_Plug__Rev_A.pdf": null
+            }
+        },
+        "GPN-0000-1259": {
+            "3D CAD": {
+                "85106m123s50.stp": null
+            },
+            "Compliance Documents": {},
+            "Datasheet": {
+                "2801150.pdf": null,
+                "dim_sou_851_18.pdf": null
+            },
+            "Environmental Documents": {},
+            "GPN-0000-1259_READ ME.txt": null,
+            "Product Change Notice": {}
+        },
+        "GPN-0000-1260": {
+            "3D CAD": {
+                "85136RG1412P50_NOT-LISTED.stp": null
+            },
+            "Compliance Documents": {},
+            "Datasheet": {
+                "2801150.pdf": null,
+                "dim_sou_851_23.pdf": null
+            },
+            "Environmental Documents": {},
+            "GPN-0000-1260_READ ME.txt": null,
+            "Product Change Notice": {}
+        },
+        "GPN-0000-1261": {
+            "3D CAD": {
+                "85107RC1412S50_NOT-LISTED.stp": null
+            },
+            "Compliance Documents": {},
+            "Datasheet": {
+                "2801150.pdf": null,
+                "dim_sou_851_12.pdf": null
+            },
+            "Environmental Documents": {
+                "SOUR-E-A0002427989-1.xls": null,
+                "SOUR-E-A0002810253-1.pdf": null,
+                "SOUR-E-A0004480329-1.pdf": null,
+                "SOURE00007-1.pdf": null
+            },
+            "GPN-0000-1261_READ ME.txt": null,
+            "Product Change Notice": {
+                "Souriau_BM_837_851_connecteur__Rev_A.pdf": null
+            }
+        },
+        "GPN-0000-1262": {
+            "3D CAD": {
+                "LED Indicators Green_q8f1bxxhg220e.stp": null
+            },
+            "Approvals": {
+                "Apem_6420_RoHS_Certificate.pdf": null,
+                "APPM-E-A0002841176-1.pdf": null,
+                "APPM-E-A0009825471-1.xls": null,
+                "APPM-E-A0015690475-1.pdf": null,
+                "APPM-E-A0020051469-1.pdf": null
+            },
+            "Datasheet": {
+                "apem_03162018_Q8_Series_HMI_2018-1313762.pdf": null
+            },
+            "GPN-0000-1262_READ ME.txt": null
+        },
+        "GPN-0000-1263": {
+            "3D CAD": {
+                "LED Indicator Red_q8f1bxxr06e.stp": null
+            },
+            "Approvals": {
+                "Apem_6420_RoHS_Certificate.pdf": null,
+                "APPM-E-A0002841176-1.pdf": null,
+                "APPM-E-A0009825471-1.xls": null,
+                "APPM-E-A0015690475-1.pdf": null,
+                "APPM-E-A0020051469-1.pdf": null,
+                "APPME00006-1.pdf": null
+            },
+            "Datasheet": {
+                "apem_03162018_Q8_Series_HMI_2018-1313762.pdf": null
+            },
+            "GPN-0000-1263_READ ME.txt": null
+        },
+        "GPN-0000-1264": {
+            "3D CAD": {
+                "LED Indicator Orange_q8f1bxxho24e.stp": null
+            },
+            "Approvals": {
+                "Apem_6420_RoHS_Certificate.pdf": null
+            },
+            "Datasheet": {
+                "apem_03162018_Q8_Series_HMI_2018-1313762.pdf": null
+            },
+            "GPN-0000-1264_READ ME.txt": null
+        },
+        "GPN-0000-1265": {
+            "3D CAD": {
+                "FX0419.stp": null
+            },
+            "Datasheet": {
+                "bulgin_bulgs00823-1.pdf": null
+            },
+            "GPN-0000-1265_READ ME.txt": null
+        },
+        "GPN-0000-1266": {
+            "3D CAD": {
+                "1283430000.stp": null
+            },
+            "Datasheet": {
+                "1283430000_PEBZ_M6_S4_SET_en.pdf": null
+            },
+            "GPN-0000-1266_READ ME.txt": null
+        },
+        "GPN-0000-1272": {
+            "GPN-0000-1272 Datasheet.pdf": null,
+            "GPN-0000-1272 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1273": {
+            "2D Drawing": {
+                "20 Way Housing_1847301 Drawing.dxf": null,
+                "pxc_1847301_06_01_MC-1-5-20-STF-3-5_FAM.pdf": null
+            },
+            "3D CAD": {
+                "pxc_1847301_06_00_MC-1-5-20-STF-3-5_3D.stp": null
+            },
+            "Datasheet": {
+                "phoenix-contact-1847301-en.pdf": null
+            },
+            "Environmental Documents": {
+                "PCON-E-A0017967489-1.pdf": null,
+                "PCON-E-A0017971261-1.pdf": null,
+                "PCON-E-A0019180640-1.xlsx": null,
+                "PCONE00045-1.pdf": null,
+                "Phoenix_Contact_CMRT_6_1_2022_02_28.xlsx": null
+            },
+            "GPN-0000-1273_READ ME.txt": null
+        },
+        "GPN-0000-1274": {
+            "2D Drawing": {},
+            "3D CAD": {},
+            "Datasheet": {
+                "0900766b814b6bcb.pdf": null,
+                "0900766b814c40c9.pdf": null,
+                "0900766b81593f50.pdf": null,
+                "DeutschM39029SelectionGuide-1210581.pdf": null
+            },
+            "Environmental Documents": {
+                "Tyco_RoHS_Certificate.pdf": null,
+                "TYEL-E-A0000178366-1.pdf": null,
+                "TYEL-E-A0003429746-1.pdf": null,
+                "TYEL-E-A0006186227-1.pdf": null,
+                "TYEL-E-A0007377947-1.pdf": null,
+                "TYEL-E-A0011126205-1.pdf": null,
+                "TYEL-E-A0018689306-1.xlsx": null
+            },
+            "GPN-0000-1274_READ ME.txt": null
+        },
+        "GPN-0000-1290": {
+            "3D CAD": {
+                "GPN-0000-1290_ES4556020-G-L.STEP": null
+            },
+            "GPN-0000-1290 Datasheet.pdf": null,
+            "GPN-0000-1290 Mounting Details.pdf": null
+        },
+        "GPN-0000-1291": {
+            "GPN-0000-1291 Pricing.pdf": null
+        },
+        "GPN-0000-1292": {
+            "GPN-0000-1292 Datasheet.pdf": null
+        },
+        "GPN-0000-1296": {
+            "2609177.pdf": null,
+            "GPN-0000-1296_R6412-M6.STEP": null
+        },
+        "GPN-0000-1305": {
+            "3D CAD Model": {
+                "GPN-0000-1305_RS Enclosure_188-1317 v3.step": null,
+                "GPN-0000-1305_RS Enclosure_188-1317.f3z": null
+            },
+            "GPN-0000-1305 Datasheet.pdf": null,
+            "GPN-0000-1305 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1306": {
+            "GPN-0000-1306 Datasheet.pdf": null
+        },
+        "GPN-0000-1317": {
+            "Starlink 3D_Models": {
+                "C6 Connector": {
+                    "IEC 320 C-5.STEP": null,
+                    "IEC320-C6.STEP": null
+                },
+                "ReferenceModels": {
+                    "Starlink_G1_G2_UT.stp": null,
+                    "Starlink_G1_PowerSupply.stp": null,
+                    "Starlink_G1_Premium_Mobile_UT.stp": null,
+                    "Starlink_G1_Premium_PowerSupply.stp": null,
+                    "Starlink_G1_Premium_UT.stp": null,
+                    "Starlink_G1_Premium_XFrame.stp": null,
+                    "Starlink_G1_Wifi.stp": null,
+                    "Starlink_G2_Wifi.stp": null,
+                    "Starlink_G3_UT.stp": null,
+                    "Starlink_G3_XFrame.stp": null
+                },
+                "Starlink Official Product 3D Models": {
+                    "Circular Starlink Power Supply.stp": null,
+                    "Circular Starlink Wi-Fi Router.stp": null,
+                    "Circular Starlink.stp": null,
+                    "Rectangular Starlink Base.stp": null,
+                    "Rectangular Starlink Wi-Fi Router.stp": null,
+                    "Rectangular Starlink.stp": null
+                }
+            },
+            "Starlink Product Specifications_Standard.pdf": null,
+            "StarlinkInstallGuide_Rectangular_English.pdf": null,
+            "Starlink_Mesh_Installation_Guide.pdf": null
+        },
+        "GPN-0000-1318": {},
+        "GPN-0000-1319": {
+            "3D CAD": {
+                "GPN-0000-1319 Starlink Pipe Adapter.f3d": null,
+                "GPN-0000-1319 Starlink Pipe Adapter.step": null
+            }
+        },
+        "GPN-0000-1320": {},
+        "GPN-0000-1349": {},
+        "GPN-0000-1356": {
+            "2D Drawing": {
+                "MultiPlus-12-24-48V-500VA.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1356_MultiPlus-12-24-48V-500VA.STEP": null
+            },
+            "GPN-0000-1356 Datasheet.pdf": null,
+            "GPN-0000-1356 Manual.pdf": null
+        },
+        "GPN-0000-1358": {
+            "GPN-0000-1358 Datasheet.pdf": null,
+            "GPN-0000-1358 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1359": {
+            "GPN-0000-1359 Datasheet.pdf": null,
+            "GPN-0000-1359 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1374": {
+            "Datasheet": {
+                "tci240_characteristic_curves.pdf": null,
+                "tci240_datasheet-3310117.pdf": null
+            },
+            "tci240-3d_drawings": {
+                "tci240_encased_3d_drawing.stp": null,
+                "tci240_u_bracket_3d_drawing.stp": null
+            },
+            "tci240-certifications": {
+                "tci130_tci240_tci500_tci500u_ul62368_1_coa.pdf": null,
+                "tci130_tci240_tci500_tci500u_ul62368_1_coc.pdf": null,
+                "tci240_cb62368_1_crt.pdf": null,
+                "tci240_en55032_en55035_rep.pdf": null
+            }
+        },
+        "GPN-0000-1375": {
+            "Datasheet": {
+                "tci500u_characteristic_curves.pdf": null,
+                "tci500u_datasheet-3310100.pdf": null
+            },
+            "tci500u-certifications": {
+                "tci130_tci240_tci500_tci500u_ul62368_1_coa.pdf": null,
+                "tci130_tci240_tci500_tci500u_ul62368_1_coc.pdf": null,
+                "tci500_tci500u_cb62368_1_crt.pdf": null,
+                "tci500_tci500u_en55032_en55035_rep.pdf": null
+            },
+            "tci500u_u_bracket_3d_drawing.stp": null
+        },
+        "GPN-0000-1376": {
+            "3D CAD": {
+                "GPN-0000-1376_Phoenix Connector.stp": null
+            },
+            "Datasheet": {
+                "phoenix-contact-1879463-en.pdf": null
+            }
+        },
+        "GPN-0000-1377": {
+            "3D CAD": {
+                "GPN-0000-1377_Phoenix Connector_1763180.stp": null
+            },
+            "Datasheet": {
+                "phoenix-contact-1763180-en.pdf": null
+            }
+        },
+        "GPN-0000-1378": {
+            "3D CAD": {
+                "GPN-0000-1378_C13 Power Entry Module.step": null
+            },
+            "Datasheets": {
+                "2096646.pdf": null
+            }
+        },
+        "GPN-0000-1379": {
+            "Datasheet": {
+                "typ_4797.pdf": null
+            }
+        },
+        "GPN-0000-1383": {
+            "3D CAD Model": {
+                "GPN-0000-1383_RS Enclosure_188-1319 v4.step": null,
+                "GPN-0000-1383_RS Enclosure_188-1319.f3d": null,
+                "GPN-0000-1383_RS Enclosure_188-1319.f3z": null
+            },
+            "A700000006797273.pdf": null
+        },
+        "GPN-0000-1384": {
+            "2D CAD": {
+                "DOC-ACS-004-VCCM600-Parallel-and-Series-link.pdf": null,
+                "DOC-ACS-005-VCCM600-Cable-Sets-and-Heatsinks.pdf": null,
+                "DOC-ACS-008-VCCM600-Series-Tracker.pdf": null,
+                "MEC6100_VCCM_2D.pdf": null,
+                "VCCM_3D.dwg": null
+            },
+            "3D CAD": {
+                "VCCM_3D.dwg": null,
+                "VCCM_3D.igs": null,
+                "VCCM_3D.stp": null
+            },
+            "Compliance Documents": {
+                "DOC-SAF-010-VCCM600M-CE-UKCA-Declaration.pdf": null,
+                "DOC-SAF-011-VCCM600S-CE-UKCA-Declaration.pdf": null,
+                "DOC-SAF-029-VCCM600S-UL-CB-Certificate-62368.pdf": null,
+                "DOC-SAF-030-VCCM600S-UL-CB-Certificate-60950.pdf": null,
+                "DOC-SAF-038-VCCM600M-UL-CB-Certificate-60601.pdf": null,
+                "DOC-SAF-043-VCCM600S-UL-CB-Certificate-62368-Edition-3.pdf": null
+            },
+            "Datasheet": {
+                "DOC-ACS-004-VCCM600-Parallel-and-Series-link.pdf": null,
+                "DOC-ACS-005-VCCM600-Cable-Sets-and-Heatsinks.pdf": null,
+                "DOC-ACS-008-VCCM600-Series-Tracker.pdf": null,
+                "DOC-DTS-006-VCCM600M-Medical-Datasheet.pdf": null,
+                "DOC-DTS-019-VCCM600-Series-Output-A-Datasheet.pdf": null,
+                "DOC-DTS-020-VCCM600-Series-Output-B-Datasheet.pdf": null,
+                "DOC-DTS-021-VCCM600-Series-Output-C-Datasheet.pdf": null,
+                "DOC-DTS-022-VCCM600-Series-Output-D-Datasheet.pdf": null
+            },
+            "Environmental Documents": {
+                "DOC-SAF-021-VCCM600-EMC-Report-16E5939-4.pdf": null,
+                "DOC-SAF-037-VCCM600-HALT-Report.pdf": null,
+                "VCCM600-Environmental-Verification-Test-Report.pdf": null
+            },
+            "GPN-0000-1251_READ ME.txt": null,
+            "Manuals": {
+                "DOC-APN-002-Hi-Pot-Testing-Application-Note-Remote-Voltage-and-Current-Control.pdf": null,
+                "DOC-APN-004-Current-Share-For-Parallel-Connected-Seriesed-Outputs-App-Note.pdf": null,
+                "DOC-APN-007-VCCM600-400Hz-Operation-Application-Note.pdf": null,
+                "DOC-MN-004-VCCM600-Series-Installation-Manual.pdf": null,
+                "DOC-MN-007-VCCM600-User-Manual.pdf": null
+            },
+            "Product Change Notifications": {}
+        },
+        "GPN-0000-1386": {
+            "GPN-0000-1386 Datasheet.pdf": null,
+            "GPN-0000-1386 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1387": {
+            "GPN-0000-1387 Datasheet.pdf": null,
+            "GPN-0000-1387 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1404": {
+            "GPN-0000-1404 ROHS_Certificate.pdf": null,
+            "GPN-0000-1404 User Manual.pdf": null
+        },
+        "GPN-0000-1405": {
+            "3D CAD": {
+                "GPN-0000-1405_503948051.stp": null
+            },
+            "503940001-000.pdf": null,
+            "503948051.pdf": null,
+            "503948051_sd.pdf": null,
+            "GPN-0000-1405 Datasheet.pdf": null,
+            "GPN-0000-1405 ROHS_Certificate.pdf": null,
+            "PS-51110-001-001.pdf": null
+        },
+        "GPN-0000-1406": {
+            "500580000-CS-000.pdf": null,
+            "500588000.pdf": null,
+            "GPN-0000-1406 Datasheet.pdf": null,
+            "GPN-0000-1406 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1407": {
+            "2D Drawings": {
+                "510210600 (1).pdf": null,
+                "510210600.dxf": null,
+                "510210600_sd.pdf": null,
+                "GPN-0000-1407_510210600 Drawing.dxf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1407_510210600.stp": null
+            },
+            "510210600.pdf": null,
+            "GPN-0000-1407 Datasheet.pdf": null,
+            "GPN-0000-1407 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1408": {
+            "GPN-0000-1408 Datasheet.pdf": null,
+            "GPN-0000-1408 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1409": {
+            "3D CAD": {
+                "GPN-0000-1409_85107A2041S50.stp": null
+            },
+            "Datasheet": {
+                "eaton-souriau-MILDTL26482-connector-851-catalog-en-us.pdf": null
+            }
+        },
+        "GPN-0000-1410": {
+            "GPN-0000-1410 Datasheet.pdf": null,
+            "GPN-0000-1410 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1421": {
+            "GPN-0000-1421 Datasheet.pdf": null,
+            "GPN-0000-1421 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1426": {
+            "GPN-0000-1426 Datasheet.pdf": null,
+            "GPN-0000-1426 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1427": {
+            "GPN-0000-1427 Datasheet 2.pdf": null,
+            "GPN-0000-1427 Datasheet 3.pdf": null,
+            "GPN-0000-1427 Datasheet.pdf": null,
+            "GPN-0000-1427 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1428": {
+            "GPN-0000-1428 Datasheet.pdf": null,
+            "GPN-0000-1428 ROHS Certificate.pdf": null
+        },
+        "GPN-0000-1429": {
+            "3D CAD": {
+                "85107A123P54.stp": null
+            },
+            "eaton-souriau-mildtl26482-connector-851-catalog-en-us.pdf": null
+        },
+        "GPN-0000-1430": {
+            "3D CAD": {
+                "GPN-0000-1430_85107A1412S54.stp": null
+            },
+            "eaton-souriau-mildtl26482-connector-851-catalog-en-us.pdf": null
+        },
+        "GPN-0000-1431": {
+            "2D Drawing": {
+                "ENG_CD_T4130012081000_B.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1431_t4130012081-000.stp": null
+            },
+            "ENG_ _108-106140_A7.pdf": null,
+            "ENG_DS_1-773955-5_0718.pdf": null,
+            "JPN_CS_1-1773701-8_M8M12_CONNECTOR_SYSTEM_2401.pdf": null
+        },
+        "GPN-0000-1432": {
+            "3D CAD": {
+                "GPN-0000-1432_t4112001081-000.stp": null
+            },
+            "ENG_ _108-106140_A7.pdf": null,
+            "ENG_AAD_UL_CERT_E193908_20151126_C1_3.pdf": null,
+            "ENG_CD_T411200XXXX000_B1.pdf": null,
+            "ENG_SS_114-137144_A10.pdf": null,
+            "ENG_SS_501-106140_A.pdf": null
+        },
+        "GPN-0000-1435": {
+            "0900766b8157e1f4.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1435_G3NA_220B.step": null
+            }
+        },
+        "GPN-0000-1436": {
+            "0900766b8157e1f4.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1436_R99_12_FOR_G3NA.step": null
+            }
+        },
+        "GPN-0000-1437": {
+            "GPN-0000-1437_Penn Elcom-R6618-M6.STEP": null,
+            "R6400-R6600 Series - Spec Sheet - Penn Elcom.pdf": null
+        },
+        "GPN-0000-1438": {
+            "Penn Elcom-RSU01-600.step": null,
+            "RSU01-600_RSU01-600-01.jpg": null,
+            "Thumbs.db": null
+        },
+        "GPN-0000-1439": {
+            "3D CAD": {
+                "GPN-0000-1439_R1297-500-2U.step": null
+            },
+            "Read Me.txt": null
+        },
+        "GPN-0000-1440": {
+            "3D CAD": {
+                "GPN-0000-1440_R1206-2U.step": null
+            },
+            "Read Me.txt": null
+        },
+        "GPN-0000-1441": {
+            "3D CAD": {
+                "GPN-0000-1441_R1297-2U.step": null
+            },
+            "Read Me.txt": null
+        },
+        "GPN-0000-1443": {
+            "2547996.pdf": null,
+            "RSD-60G-12": {
+                "GPN-0000-1443_RSD-60G-12.stp": null
+            }
+        },
+        "GPN-0000-1446": {
+            "2081947.pdf": null,
+            "GPN-0000-1446_fx0454.stp": null
+        },
+        "GPN-0000-1447": {
+            "GPN-0000-1447 Datasheet.pdf": null,
+            "GPN-0000-1447 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1449": {
+            "A700000006797273.pdf": null,
+            "GPN-0000-1449.pdf": null,
+            "GPN-0000-1449_RS Enclosure_188-1320.f3d": null,
+            "GPN-0000-1449_RS Enclosure_188-1320.step": null
+        },
+        "GPN-0000-1450": {
+            "GPN-0000-1450 Datasheet.pdf": null,
+            "GPN-0000-1450 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1452": {
+            "0900766b8165c1c9.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1452_DDR-60L-24.stp": null
+            }
+        },
+        "GPN-0000-1454": {
+            "3D CAD": {
+                "GPN-0000-1454_DRDN40-24.stp": null
+            },
+            "DRDN40-spec.pdf": null
+        },
+        "GPN-0000-1460": {
+            "GPN-0000-1460 Datasheet.pdf": null,
+            "GPN-0000-1460 ROHS_Certificate.pdf": null,
+            "GPN-0000-1460_Link-VS.step": null,
+            "Screenshot 2024-02-13 135825.png": null
+        },
+        "GPN-0000-1461": {
+            "GPN-0000-1461 Datasheet.pdf": null,
+            "GPN-0000-1461 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1469": {
+            "58682.pdf": null
+        },
+        "GPN-0000-1470": {
+            "58682.pdf": null
+        },
+        "GPN-0000-1471": {
+            "0900766b806e34ef.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1471_49-7043-22.stp": null
+            }
+        },
+        "GPN-0000-1472": {
+            "0900766b806e34ef.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1472_49-7043-22.stp": null
+            }
+        },
+        "GPN-0000-1473": {
+            "0900766b801ce80b.pdf": null,
+            "0900766b81161973.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1473_62gb-12e14-12pn.stp": null
+            },
+            "A700000009978376.pdf": null
+        },
+        "GPN-0000-1474": {
+            "0900766b801ce80b.pdf": null,
+            "0900766b81161973.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1474_62gb-12e20-41pn.stp": null
+            },
+            "A700000009978376.pdf": null
+        },
+        "GPN-0000-1485": {
+            "GPN-0000-1485 Datasheet.pdf": null
+        },
+        "GPN-0000-1486": {
+            "GPN-0000-1486 Datasheet.pdf": null,
+            "GPN-0000-1486 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1487": {
+            "GPN-0000-1487 Datasheet.pdf": null,
+            "GPN-0000-1487 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1489": {
+            "3D CAD": {
+                "GPN-0000-1489_1241-6823.STEP": null
+            },
+            "typ_MSM_LA_19-1275867.pdf": null
+        },
+        "GPN-0000-1490": {
+            "GPN-0000-1490 Datasheet.pdf": null,
+            "GPN-0000-1490 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1495": {
+            "1706607.pdf": null,
+            "GPN-0000-1495_1706607.stp": null
+        },
+        "GPN-0000-1496": {
+            "1743074.pdf": null,
+            "GPN-0000-1496_1743074.stp": null
+        },
+        "GPN-0000-1498": {
+            "0900766b815418fa.pdf": null,
+            "A700000009055414.pdf": null,
+            "GPN-0000-1498_ELR2A04.STEP": null
+        },
+        "GPN-0000-1499": {
+            "0900766b815418fa.pdf": null,
+            "A700000009055414.pdf": null,
+            "GPN-0000-1499_ELP2A04.STEP": null
+        },
+        "GPN-0000-1500": {
+            "DM542T(V4.0).STEP": null,
+            "GPN-0000-1500 Datasheet.pdf": null
+        },
+        "GPN-0000-1501": {
+            "0900766b815418fa.pdf": null,
+            "A700000009055414.pdf": null,
+            "GPN-0000-1501_10-737486-3XSX.stp": null
+        },
+        "GPN-0000-1502": {
+            "0900766b815418fa.pdf": null,
+            "10-737487-4XPX.stp": null,
+            "10-737488-4XSX.stp": null,
+            "A700000009055414.pdf": null,
+            "GPN-0000-1502_10-737485-3XPX.stp": null
+        },
+        "GPN-0000-1503": {
+            "0900766b815418fa.pdf": null,
+            "A700000009055414.pdf": null,
+            "GPN-0000-1503_10-737487-4XPX.stp": null
+        },
+        "GPN-0000-1504": {
+            "0900766b815418fa.pdf": null,
+            "A700000009055414.pdf": null,
+            "GPN-0000-1504_10-737488-4XSX.stp": null
+        },
+        "GPN-0000-1506": {},
+        "GPN-0000-1507": {
+            "GPN-0000-1507_Penn Elcom-FP02Q-3U.STEP": null
+        },
+        "GPN-0000-1510": {
+            "GPN-0000-1510 Datasheet.pdf": null
+        },
+        "GPN-0000-1511": {
+            "GPN-0000-1511 Datasheet.pdf": null,
+            "GPN-0000-1511 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1512": {},
+        "GPN-0000-1513": {
+            "GPN-0000-1513 Datasheet.pdf": null,
+            "GPN-0000-1513 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1519": {
+            "GPN-0000-1519 Datasheet.pdf": null
+        },
+        "GPN-0000-1543": {
+            "A700000008457984.pdf": null
+        },
+        "GPN-0000-1546": {
+            "GPN-0000-1546 Datasheet.pdf": null,
+            "GPN-0000-1546 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1549": {
+            "GPN-0000-1549 Assembly.pdf": null,
+            "GPN-0000-1549 Datasheet.pdf": null,
+            "GPN-0000-1549 Datasheet2.pdf": null,
+            "GPN-0000-1549 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1550": {
+            "GPN-0000-1550 Datasheet.pdf": null,
+            "GPN-0000-1550 Installation Guide.pdf": null,
+            "GPN-0000-1550 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1551": {
+            "GPN-0000-1551 Datasheet.pdf": null,
+            "GPN-0000-1551 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1554": {
+            "GPN-0000-1554 Datasheet.pdf": null,
+            "GPN-0000-1554 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1557": {
+            "GPN-0000-1557 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1566": {
+            "2645438.pdf": null,
+            "3D CAD": {
+                "sw-108.stp": null
+            },
+            "GPN-0000-1566 Datasheet.pdf": null,
+            "GPN-0000-1566 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1567": {
+            "A700000007961724.pdf": null,
+            "R5020_Outline Dimensional Drawing_wall-mounted_kit.dwg": null,
+            "Robustel_r5020.stp": null
+        },
+        "GPN-0000-1569": {
+            "GPN-0000-1569 Datasheet.pdf": null,
+            "GPN-0000-1569 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1570": {
+            "GPN-0000-1570 Datasheet.pdf": null,
+            "GPN-0000-1570 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1571": {
+            "GPN-0000-1571 Datasheet.pdf": null,
+            "GPN-0000-1571 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1572": {
+            "GPN-0000-1572 Datasheet.pdf": null,
+            "GPN-0000-1572 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1574": {
+            "GPN-0000-1574 Datasheet.pdf": null,
+            "GPN-0000-1574 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1577": {
+            "GPN-0000-1577 ROHS.pdf": null
+        },
+        "GPN-0000-1580": {
+            "GPN-0000-1580 Datasheet.pdf": null,
+            "GPN-0000-1580 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1581": {
+            "GPN-0000-1581 Datasheet.pdf": null,
+            "GPN-0000-1581 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1586": {
+            "3D CAD": {
+                "GPN-0000-1586_Up Xtreme i12.stp": null
+            },
+            "UP Xtreme i12 (UPX-ADLP01) Manual 1st Ed.pdf": null,
+            "UP Xtreme i12 Datasheet.pdf": null,
+            "UP Xtreme i12 Edge Manual 1st Ed.pdf": null,
+            "UP-Xtreme-i12-Test-and-Certification.zip": null,
+            "UpFrameworkSetup-231116.zip": null
+        },
+        "GPN-0000-1587": {
+            "114199-Pre-RMA_bench_test_instructions-pdf-en.pdf": null,
+            "3D CAD": {
+                "Orion-Tr-380-400W-Isolated(stp).STEP": null
+            },
+            "Datasheet-Orion-Tr-DC-DC-converters-isolated-100-250-400W-EN.pdf": null,
+            "Manual-Orion-Tr-isolated-DC-DC-converters-EN-FR-NL-ES-IT-DE.pdf": null,
+            "Orion-Tr-380-400W-Isolated-(3D).pdf": null,
+            "Orion-Tr-380-400W-Isolated.pdf": null
+        },
+        "GPN-0000-1588": {
+            "GPN-0000-1588 Datasheet.pdf": null
+        },
+        "GPN-0000-1602": {
+            "3D CAD": {
+                "GPN-0000-1602_Case 5218.stp": null
+            },
+            "5218_drawing.pdf": null,
+            "5218_foam.pdf": null,
+            "Explorer_TESTS_CHART.pdf": null,
+            "GPN-0000-1602 Datasheet.pdf": null,
+            "GPN-0000-1602 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1604": {
+            "GPN-0000-1604 Datasheet.pdf": null,
+            "GPN-0000-1604 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1617": {
+            "GPN-0000-1617 Datasheet.pdf": null,
+            "Odyssey Battery_ODS-AGM30E.f3d": null,
+            "Odyssey Battery_ODS-AGM30E.step": null,
+            "Odyssey Product Guide .pdf": null,
+            "Odyssey Technical Manual.pdf": null
+        },
+        "GPN-0000-1621": {
+            "0900766b8132fa97.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1621_Eaton Isolator 2 Pole.stp": null,
+                "t3_1_ea.dwg": null
+            },
+            "A700000009345157.pdf": null
+        },
+        "GPN-0000-1622": {
+            "GPN-0000-1622 Datasheet.pdf": null
+        },
+        "GPN-0000-1623": {
+            "GPN-0000-1623 Datasheet.pdf": null,
+            "GPN-0000-1623 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1626": {
+            "GPN-0000-1626 Datasheet.pdf": null
+        },
+        "GPN-0000-1632": {
+            "GPN-0000-1632 Datasheet.pdf": null,
+            "GPN-0000-1632 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1633": {},
+        "GPN-0000-1634": {
+            "0900766b81578e38.pdf": null,
+            "A700000009242010.pdf": null
+        },
+        "GPN-0000-1635": {
+            "Environmental Documents": {
+                "ASTD-E-A0003049444-1.pdf": null,
+                "ASTD-E-A0006352782-1.xls": null,
+                "ASTD-E-A0012898000-1.pdf": null,
+                "ASTD-E-A0020590890-1.pdf": null,
+                "Astrodyne_6447_RoHS_Certificate.pdf": null,
+                "GPN-0000-1635 ROHS_Certificate.pdf": null
+            },
+            "GPN-0000-1635 Datasheet.pdf": null
+        },
+        "GPN-0000-1636": {
+            "GPN-0000-1636_LED Indicator_XVLA133.stp": null,
+            "Schneider Electric_Harmony-XVL_XVLA143.pdf": null
+        },
+        "GPN-0000-1643": {
+            "3D CAD": {
+                "GPN-0000-1643_Nvidia AGX Dev Kit.stp": null
+            },
+            "GPN-0000-1643 Datasheet.pdf": null,
+            "jetson_agx_xavier_developer_kit_user_guide.pdf": null,
+            "NVIDIA_Installation.docx": null
+        },
+        "GPN-0000-1648": {
+            "GPN-0000-1648 Datasheet.pdf": null,
+            "GPN-0000-1648 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1652": {
+            "GPN-0000-1652 Datasheet.pdf": null,
+            "GPN-0000-1652 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1653": {},
+        "GPN-0000-1654": {
+            "3D CAD": {
+                "L60030M1SQ-3D-Model.igs": null
+            },
+            "Datasheet.pdf": null,
+            "media (1).pdf": null,
+            "media (2).pdf": null,
+            "media (3).pdf": null,
+            "media (4).pdf": null
+        },
+        "GPN-0000-1655": {
+            "0900766b80ff6b2a.pdf": null,
+            "3D CAD": {
+                "SPL001_3D_Model.stp": null
+            }
+        },
+        "GPN-0000-1656": {
+            "3D CAD": {
+                "GPN-0000-1656_Fuse Holder_64700001003.stp": null
+            },
+            "Datasheet_0900766b8128f3f0.pdf": null
+        },
+        "GPN-0000-1657": {
+            "3D CAD": {
+                "GPN-0000-1657_Fuse Holder Cover_64800001009.stp": null
+            },
+            "Datasheet_0900766b81196eda.pdf": null
+        },
+        "GPN-0000-1661": {
+            "3D CAD": {
+                "GPN-0000-1661_FX0462.stp": null
+            },
+            "Datasheet_2646899.pdf": null,
+            "Fuseholders.pdf": null
+        },
+        "GPN-0000-1662": {
+            "Fuseholders (1).pdf": null
+        },
+        "GPN-0000-1664": {},
+        "GPN-0000-1668": {
+            "3D CAD": {
+                "GPN-0000-1668_LMV2157-8M3-M0.stp": null
+            },
+            "LMV-Connector (Weald) Catalogue.pdf": null
+        },
+        "GPN-0000-1669": {
+            "3D CAD": {
+                "GPN-0000-1669_LMV2154-8M3-F0.stp": null
+            },
+            "LMV-Connector (Weald) Catalogue.pdf": null
+        },
+        "GPN-0000-1670": {
+            "3D CAD": {
+                "GPN-0000-1670_LMA-1-41514-228.stp": null
+            },
+            "LMV-Connector (Weald) Catalogue.pdf": null
+        },
+        "GPN-0000-1671": {
+            "3D CAD": {
+                "GPN-0000-1671_RJF6MZN.stp": null
+            },
+            "RJF_Series_Ethernet_Conn_System.pdf": null
+        },
+        "GPN-0000-1672": {
+            "Environmental Documents": {
+                "AMPHE00218-1.pdf": null
+            },
+            "RJF_Series_Ethernet_Conn_System (1).pdf": null
+        },
+        "GPN-0000-1673": {
+            "169-180_mb_series.pdf": null,
+            "dim_mtx__26482s2_3474 (2).pdf": null,
+            "techdata_mtx__26482s2 (3).pdf": null
+        },
+        "GPN-0000-1674": {
+            "DUST_CAPS_0-1107606.pdf": null,
+            "full_spec_pcd_ms3180_ms3180.pdf": null
+        },
+        "GPN-0000-1683": {
+            "3D CAD": {
+                "GPN-0000-1683_AT04-08PB-BM02.stp": null
+            },
+            "A-Series-Family-Collection.pdf": null,
+            "AMPH-E-A0018825500-1.pdf": null,
+            "AMPHE00218-1.pdf": null,
+            "Amphenol_PCN_C1514S__REV_A_.pdf": null,
+            "Data sheet_AT04-08PB-BM02.pdf": null
+        },
+        "GPN-0000-1684": {
+            "2D Drawings": {
+                "GPN-0000-1684_AT06-08SB Drawing.dxf": null,
+                "GPN-0000-1684_AT06-08SB Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1684_AT06-08SB.stp": null
+            },
+            "AMPH-E-A0018825500-1.pdf": null,
+            "AMPHE00218-1.pdf": null,
+            "AT-Series.pdf": null,
+            "Datasheet_AT06-08SB.pdf": null
+        },
+        "GPN-0000-1685": {
+            "3D CAD": {
+                "GPN-0000-1685_LMV-2157-28M3-M0.stp": null
+            },
+            "LMV-Connector (Weald) Catalogue.pdf": null,
+            "LMV_RoHS.docx": null
+        },
+        "GPN-0000-1686": {
+            "3D CAD": {
+                "GPN-0000-1686_LMV-2154-28M3-F0.stp": null
+            },
+            "LMV-Connector (Weald) Catalogue.pdf": null,
+            "LMV_RoHS.docx": null
+        },
+        "GPN-0000-1687": {
+            "3D CAD": {
+                "GPN-0000-1687_LMA-1-41540-228.stp": null
+            },
+            "LMA LMD Brass Backshells_RoHS.docx": null,
+            "LMV-Connector (Weald) Catalogue.pdf": null
+        },
+        "GPN-0000-1690": {
+            "GPN-0000-1690 Catalogue.pdf": null,
+            "GPN-0000-1690 Datasheet.pdf": null
+        },
+        "GPN-0000-1691": {
+            "GPN-0000-1691 Datasheet.pdf": null
+        },
+        "GPN-0000-1692": {
+            "Datasheet_308366.pdf": null,
+            "GPN-0000-1692_PX0714-2-15-28.STEP": null
+        },
+        "GPN-0000-1693": {
+            "2D Drawing.pdf": null,
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-1694": {
+            "3D CAD": {
+                "GPN-0000-1694_T9-MS2-22.stp": null,
+                "T9_DoublePole_CircuitID-1or2Pole.stp": null,
+                "T9_SinglePole_CircuitID-1or2Pole.stp": null,
+                "T9_SinglePole_CircuitID-2PoleOnly.stp": null
+            },
+            "t9-toggle-catalog-pages.pdf": null
+        },
+        "GPN-0000-1705": {
+            "GPN-0000-1705 Datasheet.pdf": null
+        },
+        "GPN-0000-1706": {
+            "GPN-0000-1706 Datasheet.pdf": null
+        },
+        "GPN-0000-1717": {
+            "EK1100": {
+                "Datasheet.pdf": null,
+                "EK1100.pdf": null
+            }
+        },
+        "GPN-0000-1718": {
+            "EL6080": {
+                "Datasheet.pdf": null,
+                "EL6080 Memory Calculation.PNG": null,
+                "el6080.pdf": null
+            }
+        },
+        "GPN-0000-1719": {
+            "EL3201": {
+                "Datasheet.pdf": null,
+                "EL3201.pdf": null
+            }
+        },
+        "GPN-0000-1720": {
+            "EL3002": {
+                "Datasheet.pdf": null,
+                "el3002.pdf": null
+            }
+        },
+        "GPN-0000-1721": {
+            "1827596_02_en_00.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1721_1827596.stp": null
+            }
+        },
+        "GPN-0000-1722": {
+            "3D CAD": {
+                "GPN-0000-1722_t4112001031-000-b-3d.stp": null
+            },
+            "ENG_ _108-106140_A7.pdf": null,
+            "ENG_CD_T411200XXXX000_B1.pdf": null,
+            "ENG_CS_1-1773701-8_M8M12_CONNECTOR_SYSTEM_2402.pdf": null,
+            "ENG_SS_114-137144_A10.pdf": null
+        },
+        "GPN-0000-1723": {
+            "3D CAD": {
+                "GPN-0000-1723_t4130012031-000-b-3d.stp": null
+            },
+            "ENG_ _108-106140_A7.pdf": null,
+            "ENG_CD_T41300120X1000_C.pdf": null,
+            "ENG_SS_114-137144_A10.pdf": null
+        },
+        "GPN-0000-1724": {
+            "1829345_02_en_00.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1724_1829345.stp": null
+            },
+            "pxc_1829345_02_04_DFK-MC-1-5-2-GF-3-81_FAM.pdf": null
+        },
+        "GPN-0000-1725": {
+            "1827703_09_en_01.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1725_1827703.stp": null
+            },
+            "pxc_1827703_09_01_MC-1-5-2-STF-3-81_FAM.pdf": null
+        },
+        "GPN-0000-1726": {
+            "1829361_02_en_00.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1726_1829361.stp": null
+            },
+            "pxc_1829361_02_04_DFK-MC-1-5-4-GF-3-81_FAM.pdf": null
+        },
+        "GPN-0000-1727": {
+            "1827729_09_en_01.pdf": null,
+            "3D CAD": {
+                "GPN-0000-1727_1827729.stp": null
+            },
+            "pxc_1827729_09_01_MC-1-5-4-STF-3-81_FAM.pdf": null
+        },
+        "GPN-0000-1741": {
+            "GPN-0000-1741 Datasheet.pdf": null
+        },
+        "GPN-0000-1742": {
+            "Software.pdf": null,
+            "X221_Manual.pdf": null
+        },
+        "GPN-0000-1744": {
+            "GPN-0000-1744 Datasheet.pdf": null,
+            "GPN-0000-1744 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1745": {},
+        "GPN-0000-1746": {
+            "GPN-0000-1746 Datasheet.pdf": null,
+            "GPN-0000-1746 Manual.pdf": null
+        },
+        "GPN-0000-1747": {
+            "GPN-0000-1747 Datasheet a.pdf": null,
+            "GPN-0000-1747 Datasheet b.pdf": null,
+            "GPN-0000-1747 ROHS.pdf": null
+        },
+        "GPN-0000-1748": {
+            "GPN-0000-1748 Datasheet.pdf": null,
+            "GPN-0000-1748 ROHS_Certificate.pdf": null,
+            "GPN-0000-1748 Selection Guide.pdf": null
+        },
+        "GPN-0000-1754": {
+            "LMA accessories_RoHS.docx": null,
+            "LMV-Connector---Catalogue.pdf": null
+        },
+        "GPN-0000-1755": {
+            "LMV-Connector---Catalogue.pdf": null
+        },
+        "GPN-0000-1756": {
+            "GPN-0000-1756 CE.pdf": null,
+            "GPN-0000-1756 Datasheet.pdf": null,
+            "GPN-0000-1756 FCC.pdf": null,
+            "GPN-0000-1756 ROHS.pdf": null
+        },
+        "GPN-0000-1757": {
+            "GPN-0000-1757 Datasheet.pdf": null,
+            "GPN-0000-1757 FCC.pdf": null,
+            "GPN-0000-1757 ROHS.pdf": null,
+            "GPN-0000-1757 Safety Manual.pdf": null
+        },
+        "GPN-0000-1767": {
+            "GPN-0000-1767 Datasheet.pdf": null,
+            "GPN-0000-1767 ROHS.pdf": null
+        },
+        "GPN-0000-1768": {
+            "GPN-0000-1768 Datasheet.pdf": null,
+            "GPN-0000-1768 ROHS.pdf": null
+        },
+        "GPN-0000-1769": {
+            "GPN-0000-1769 Datasheet.pdf": null,
+            "GPN-0000-1769 ROHS.pdf": null
+        },
+        "GPN-0000-1772": {
+            "2D Drawings": {
+                "GPN-0000-1772_511101260 Drawing.dxf": null,
+                "GPN-0000-1772_511101260 Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1772_511101260.stp": null
+            },
+            "503940001-AS-000.pdf": null,
+            "511101260_sd.pdf": null,
+            "GPN-0000-1772 Datasheet.pdf": null,
+            "PK-51110-300-001.pdf": null,
+            "PS-51110-001-001.pdf": null
+        },
+        "GPN-0000-1773": {
+            "3D CAD": {
+                "GPN-0000-1773_Inverter.STEP": null
+            },
+            "8778-VictronConnect_manual-pdf-en.pdf": null,
+            "Datasheet-Inverter-VE.Direct-250VA-1200VA-EN.pdf": null,
+            "Inverter-VE.Direct-12V-24V-48V-250VA-375VA.pdf": null,
+            "Manual-Inverter-VE.Direct-250VA-1200VA-EN-NL-FR-DE-ES-IT.pdf": null
+        },
+        "GPN-0000-1775": {
+            "3D CAD": {
+                "GPN-0000-1775_Transformer_504105.stp": null
+            },
+            "A700000008747402.pdf": null
+        },
+        "GPN-0000-1776": {
+            "GPN-0000-1776_Power Entry Module.step": null,
+            "typ_4719.pdf": null
+        },
+        "GPN-0000-1777": {
+            "3D CAD": {
+                "GPN-0000-1777_Power Supply_rsd-150c-24.stp": null
+            },
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-1778": {
+            "GPN-0000-1778 Datasheet.pdf": null
+        },
+        "GPN-0000-1788": {
+            "GPN-0000-1788 Datasheet.pdf": null,
+            "GPN-0000-1788 ROHS.pdf": null
+        },
+        "GPN-0000-1789": {
+            "GPN-0000-1789 Datasheet.pdf": null,
+            "GPN-0000-1789 ROHS.pdf": null
+        },
+        "GPN-0000-1793": {
+            "GPN-0000-1793 Datasheet.pdf": null,
+            "GPN-0000-1793 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1794": {
+            "GPN-0000-1794 Datasheet.pdf": null,
+            "GPN-0000-1794 Datasheet2.pdf": null,
+            "GPN-0000-1794 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1795": {
+            "GPN-0000-1795 Datasheet.pdf": null,
+            "GPN-0000-1795 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1796": {
+            "GPN-0000-1796 Datasheet.pdf": null,
+            "GPN-0000-1796 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1797": {
+            "GPN-0000-1797 Datasheet.pdf": null,
+            "GPN-0000-1797 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1798": {
+            "GPN-0000-1798 Datasheet.pdf": null,
+            "GPN-0000-1798 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1799": {
+            "GPN-0000-1799 Datasheet.pdf": null,
+            "GPN-0000-1799 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1800": {
+            "GPN-0000-1800 Datasheet.pdf": null,
+            "GPN-0000-1800 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1801": {
+            "GPN-0000-1801 Datasheet.pdf": null,
+            "GPN-0000-1801 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1802": {
+            "GPN-0000-1802 Datasheet.pdf": null,
+            "GPN-0000-1802 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1803": {
+            "GPN-0000-1803 Datasheet.pdf": null,
+            "GPN-0000-1803 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1804": {
+            "GPN-0000-1804 Datasheet.pdf": null
+        },
+        "GPN-0000-1805": {},
+        "GPN-0000-1806": {},
+        "GPN-0000-1807": {},
+        "GPN-0000-1808": {},
+        "GPN-0000-1809": {},
+        "GPN-0000-1810": {},
+        "GPN-0000-1811": {},
+        "GPN-0000-1812": {},
+        "GPN-0000-1813": {},
+        "GPN-0000-1814": {},
+        "GPN-0000-1815": {},
+        "GPN-0000-1816": {},
+        "GPN-0000-1817": {},
+        "GPN-0000-1818": {},
+        "GPN-0000-1819": {},
+        "GPN-0000-1820": {},
+        "GPN-0000-1821": {},
+        "GPN-0000-1822": {},
+        "GPN-0000-1823": {},
+        "GPN-0000-1824": {},
+        "GPN-0000-1825": {},
+        "GPN-0000-1826": {},
+        "GPN-0000-1827": {},
+        "GPN-0000-1828": {},
+        "GPN-0000-1829": {},
+        "GPN-0000-1830": {},
+        "GPN-0000-1831": {},
+        "GPN-0000-1832": {},
+        "GPN-0000-1833": {},
+        "GPN-0000-1834": {},
+        "GPN-0000-1835": {},
+        "GPN-0000-1836": {},
+        "GPN-0000-1837": {},
+        "GPN-0000-1838": {},
+        "GPN-0000-1839": {},
+        "GPN-0000-1840": {},
+        "GPN-0000-1841": {},
+        "GPN-0000-1842": {},
+        "GPN-0000-1843": {},
+        "GPN-0000-1844": {},
+        "GPN-0000-1845": {},
+        "GPN-0000-1846": {},
+        "GPN-0000-1847": {},
+        "GPN-0000-1848": {},
+        "GPN-0000-1849": {
+            "GPN-0000-1849 Datasheet.pdf": null
+        },
+        "GPN-0000-1850": {},
+        "GPN-0000-1851": {},
+        "GPN-0000-1852": {},
+        "GPN-0000-1853": {},
+        "GPN-0000-1854": {},
+        "GPN-0000-1855": {},
+        "GPN-0000-1856": {},
+        "GPN-0000-1863": {},
+        "GPN-0000-1865": {},
+        "GPN-0000-1868": {
+            "GPN-0000-1868 Datasheet 2.pdf": null,
+            "GPN-0000-1868 Datasheet.pdf": null
+        },
+        "GPN-0000-1869": {
+            "GPN-0000-1869 Datasheet.pdf": null
+        },
+        "GPN-0000-1870": {
+            "GPN-0000-1870 Datasheet.pdf": null
+        },
+        "GPN-0000-1871": {
+            "GPN-0000-1871 Datasheet.pdf": null
+        },
+        "GPN-0000-1875": {
+            "GPN-0000-1875 Datasheet.pdf": null,
+            "GPN-0000-1875 ROHS.pdf": null
+        },
+        "GPN-0000-1876": {
+            "GPN-0000-1876 Datasheet.pdf": null,
+            "GPN-0000-1876 ROHS.pdf": null
+        },
+        "GPN-0000-1877": {
+            "GPN-0000-1877 Datasheet.pdf": null,
+            "GPN-0000-1877 ROHS.pdf": null
+        },
+        "GPN-0000-1878": {
+            "GPN-0000-1878 Datasheet.pdf": null
+        },
+        "GPN-0000-1879": {
+            "GPN-0000-1879 Dimensions.jpg": null
+        },
+        "GPN-0000-1880": {},
+        "GPN-0000-1881": {
+            "GPN-0000-1881 Dimensions.jpg": null
+        },
+        "GPN-0000-1882": {},
+        "GPN-0000-1883": {},
+        "GPN-0000-1884": {},
+        "GPN-0000-1885": {},
+        "GPN-0000-1886": {},
+        "GPN-0000-1887": {},
+        "GPN-0000-1888": {},
+        "GPN-0000-1889": {},
+        "GPN-0000-1890": {},
+        "GPN-0000-1895": {
+            "LMA accessories_RoHS.docx": null,
+            "LMV-Connector---Catalogue.pdf": null
+        },
+        "GPN-0000-1898": {},
+        "GPN-0000-1900": {
+            "GPN-0000-1900 Datasheet.pdf": null,
+            "GPN-0000-1900 ROHS.pdf": null,
+            "GPN-0000-1900 SoC.pdf": null
+        },
+        "GPN-0000-1901": {
+            "GPN-0000-1901 Datasheet.pdf": null,
+            "GPN-0000-1901 ROHS.pdf": null,
+            "GPN-0000-1901 SoC.pdf": null
+        },
+        "GPN-0000-1902": {
+            "GPN-0000-1902 Datasheet.pdf": null,
+            "GPN-0000-1902 ROHS.pdf": null,
+            "GPN-0000-1902 SoC.pdf": null
+        },
+        "GPN-0000-1903": {
+            "3D CAD": {
+                "GPN-0000-1903_Power Entry Module_6200_4315.stp": null
+            },
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-1904": {
+            "GPN-0000-1904 Datasheet.pdf": null,
+            "GPN-0000-1904 ROHS.pdf": null,
+            "GPN-0000-1904 SoC.pdf": null
+        },
+        "GPN-0000-1905": {
+            "GPN-0000-1905 Datasheet.pdf": null,
+            "GPN-0000-1905 ROHS.pdf": null,
+            "GPN-0000-1905 SoC.pdf": null
+        },
+        "GPN-0000-1906": {
+            "GPN-0000-1906 Datasheet.pdf": null,
+            "GPN-0000-1906 ROHS.pdf": null,
+            "GPN-0000-1906 SoC.pdf": null
+        },
+        "GPN-0000-1907": {
+            "GPN-0000-1907 Datasheet.pdf": null,
+            "GPN-0000-1907 ROHS.pdf": null,
+            "GPN-0000-1907 SoC.pdf": null
+        },
+        "GPN-0000-1908": {
+            "GPN-0000-1908 Datasheet.pdf": null,
+            "GPN-0000-1908 ROHS.pdf": null,
+            "GPN-0000-1908 SoC.pdf": null
+        },
+        "GPN-0000-1910": {
+            "3D CAD": {
+                "GPN-0000-1910_VENT-MS1NMS-O8001.stp": null
+            },
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-1913": {
+            "3D Model": {
+                "GPN-0000-1913_M12 Nut_APTM-AMBPA012-001.stp": null
+            },
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-1919": {
+            "3D CAD": {
+                "GPN-0000-1919_LMH07A2041SN138.stp": null
+            },
+            "LMH_RoHS.docx": null,
+            "Weald_Electronics_LMH_Circular_Connectors_catalogue_2023_1_1.pdf": null
+        },
+        "GPN-0000-1920": {
+            "3D CAD": {
+                "GPN-0000-1920_LMD70062012164.stp": null
+            },
+            "LMA LMD Aluminium Caps_RoHS.docx": null,
+            "LMD7000_Range_Circular_MIL-DTL-38999_26482_Protective_Caps_PDF_Catalogue_2023.pdf": null
+        },
+        "GPN-0000-1921": {
+            "3D CAD": {
+                "GPN-0000-1921_LMH07A1412SN138.stp": null
+            },
+            "LMH_RoHS.docx": null,
+            "Weald_Electronics_LMH_Circular_Connectors_catalogue_2023_1_1.pdf": null
+        },
+        "GPN-0000-1922": {
+            "3D CAD": {
+                "GPN-0000-1922_LMD70061412164.stp": null
+            },
+            "LMA LMD Aluminium Caps_RoHS.docx": null,
+            "LMD7000_Range_Circular_MIL-DTL-38999_26482_Protective_Caps_PDF_Catalogue_2023.pdf": null
+        },
+        "GPN-0000-1926": {
+            "3D CAD": {
+                "GPN-0000-1926_733-108_037-000.stp": null
+            },
+            "WAGO_733-108_037-000en_GB.pdf": null
+        },
+        "GPN-0000-1933": {
+            "3D CAD Model": {
+                "GPN-0000-1933.stp": null
+            },
+            "MS_Series_Details__26_COS_010714-3050461.pdf": null
+        },
+        "GPN-0000-1934": {
+            "3D CAD": {
+                "GPN-0000-1934_0031-2205.STEP": null
+            },
+            "Datasheet_typ_FIZ.pdf": null
+        },
+        "GPN-0000-1935": {
+            "3D CAD": {
+                "GPN-0000-1935_Cover_0859.0046.STEP": null
+            },
+            "typ_Cover_FIZ__FUL.pdf": null
+        },
+        "GPN-0000-1937": {
+            "3D CAD": {
+                "GPN-0000-1937_ Breather_BLD12424 INST.stp": null
+            },
+            "BLD12424 INST ISS 01.pdf": null
+        },
+        "GPN-0000-1951": {
+            "2D Drawings": {
+                "GPN-0000-1951_m80-4140698 Drawing.dwg": null,
+                "GPN-0000-1951_m80-4140698 Drawing.dxf": null,
+                "GPN-0000-1951_m80-4140698 Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1951_m80-4140698.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "C049-C049XX-Component-Specification-Cable-Assembly-Specifications-for-all-HRi-products.pdf": null,
+            "DRG-02761-Technical-Drawing-Datasheet-M80-414-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00735-Material-composition-for-M80-414-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-4140698.pdf": null
+            },
+            "Instructions": {
+                "CPJG-Datamate-J-Tek-and-Mix-Tek-list-of-currently-available-Jackscrew-types-and-their-mating-jackscrews.pdf": null,
+                "CPLJ-Product-Training-Module-Guide-to-Datamate-Latches-L-Tek-Jackscrews-J-Tek-and-101Lok.pdf": null,
+                "DCD-Distributor-part-numbers-for-suitable-cables-for-Datamate-Gecko-M300-Kona.xlsx": null,
+                "IS-01-IS-01-M22520-2-01-Hand-Crimp-Tool-Instruction-Sheet.pdf": null,
+                "IS-25-IS-25-Z80-280-Assembly-Tool-Instruction-Sheet.pdf": null
+            },
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null
+            }
+        },
+        "GPN-0000-1952": {
+            "2D Drawings": {
+                "GPN-0000-1952_m80-0130005 Drawing.dwg": null,
+                "GPN-0000-1952_m80-0130005 Drawing.dxf": null,
+                "GPN-0000-1952_m80-0130005 Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1952_m80-0130005.stp": null
+            },
+            "DRG-00752-Technical-Drawing-Datasheet-M80-013-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00264-Material-composition-for-M80-013-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-0130005.pdf": null
+            },
+            "Instructions": {
+                "IS-01-IS-01-M22520-2-01-Hand-Crimp-Tool-Instruction-Sheet.pdf": null,
+                "IS-25-IS-25-Z80-280-Assembly-Tool-Instruction-Sheet.pdf": null
+            },
+            "PD003-Product-Datasheet-Datamate-Mix-Tek-range-HRi.pdf": null,
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "HT001-Test-Report-HT001-Datamate-Mechanical-Endurance-number-of-cycles-up-to-10-000.pdf": null,
+                "HT005-Test-Report-HT005-Datamate-L-Tek-Female-Crimp-Retention-and-Integrity-Pull-Off-Force.pdf": null,
+                "HT016-Test-Report-HT016-Datamate-L-Tek-Female-Crimp-detailed-Mechanical-Forces-and-Contact-Resistance.pdf": null,
+                "HT017-Test-Report-HT017-Datamate-L-Tek-Contact-Resistance-after-3-and-15-years-Artificial-Aging.pdf": null,
+                "HT019-Test-Report-HT019-Datamate-Frequency-Testing-to-EIA-364-108-2000-2007-USB2-0.pdf": null
+            }
+        },
+        "GPN-0000-1955": {
+            "2D Drawings": {
+                "GPN-0000-1955_m80-4140898 Drawing.dwg": null,
+                "GPN-0000-1955_m80-4140898 Drawing.dxf": null,
+                "GPN-0000-1955_m80-4140898 Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1955_m80-4140898.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "C049-C049XX-Component-Specification-Cable-Assembly-Specifications-for-all-HRi-products.pdf": null,
+            "DRG-02761-Technical-Drawing-Datasheet-M80-414-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00735-Material-composition-for-M80-414-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-4140898.pdf": null
+            },
+            "Instructions": {
+                "IS-01-IS-01-M22520-2-01-Hand-Crimp-Tool-Instruction-Sheet.pdf": null,
+                "IS-25-IS-25-Z80-280-Assembly-Tool-Instruction-Sheet.pdf": null
+            },
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null,
+                "HT005-Test-Report-HT005-Datamate-L-Tek-Female-Crimp-Retention-and-Integrity-Pull-Off-Force.pdf": null,
+                "HT062-Test-Report-HT062-Datamate-T-Contact-8-5A-signal-contact-General.pdf": null
+            }
+        },
+        "GPN-0000-1957": {
+            "2D Drawings": {
+                "GPN-0000-1957_m80-4141298 Drawing.dwg": null,
+                "GPN-0000-1957_m80-4141298 Drawing.dxf": null,
+                "GPN-0000-1957_m80-4141298 Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1957_m80-4141298.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "C049-C049XX-Component-Specification-Cable-Assembly-Specifications-for-all-HRi-products.pdf": null,
+            "DRG-02761-Technical-Drawing-Datasheet-M80-414-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00735-Material-composition-for-M80-414-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-4141298.pdf": null
+            },
+            "Instructions": {
+                "CP016-Product-Training-Module-Overview-Guide-to-the-Datamate-range-2-4mm-pitch-High-Reliability.pdf": null,
+                "CPLJ-Product-Training-Module-Guide-to-Datamate-Latches-L-Tek-Jackscrews-J-Tek-and-101Lok.pdf": null,
+                "IS-01-IS-01-M22520-2-01-Hand-Crimp-Tool-Instruction-Sheet.pdf": null,
+                "IS-25-IS-25-Z80-280-Assembly-Tool-Instruction-Sheet.pdf": null
+            },
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "HT005-Test-Report-HT005-Datamate-L-Tek-Female-Crimp-Retention-and-Integrity-Pull-Off-Force.pdf": null,
+                "HT062-Test-Report-HT062-Datamate-T-Contact-8-5A-signal-contact-General.pdf": null
+            }
+        },
+        "GPN-0000-1958": {
+            "41205_KT 5.pdf": null
+        },
+        "GPN-0000-1959": {
+            "eaton-souriau-MILDTL26482-connector-851-catalog-en-us.pdf": null,
+            "eaton-souriau-RoHS-Status-en-us.pdf": null,
+            "ulcertificatfor851range.pdf": null
+        },
+        "GPN-0000-1960": {
+            "0900766b81626d31.pdf": null
+        },
+        "GPN-0000-1961": {
+            "0900766b81626d32.pdf": null
+        },
+        "GPN-0000-1962": {
+            "A700000008708115.pdf": null
+        },
+        "GPN-0000-1963": {
+            "2869811.pdf": null
+        },
+        "GPN-0000-1964": {
+            "2869811 (1).pdf": null
+        },
+        "GPN-0000-1965": {
+            "2D Drawings": {
+                "GPN-0000-1965_m80-4141498 Drawing.dwg": null,
+                "GPN-0000-1965_m80-4141498 Drawing.dxf": null,
+                "GPN-0000-1965_m80-4141498 Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1965_m80-4141498.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "C049-C049XX-Component-Specification-Cable-Assembly-Specifications-for-all-HRi-products.pdf": null,
+            "DRG-02761-Technical-Drawing-Datasheet-M80-414-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00735-Material-composition-for-M80-414-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-4141498.pdf": null
+            },
+            "Instructions": {
+                "CPLJ-Product-Training-Module-Guide-to-Datamate-Latches-L-Tek-Jackscrews-J-Tek-and-101Lok.pdf": null,
+                "IS-01-IS-01-M22520-2-01-Hand-Crimp-Tool-Instruction-Sheet.pdf": null,
+                "IS-25-IS-25-Z80-280-Assembly-Tool-Instruction-Sheet.pdf": null
+            },
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "HT005-Test-Report-HT005-Datamate-L-Tek-Female-Crimp-Retention-and-Integrity-Pull-Off-Force.pdf": null,
+                "HT062-Test-Report-HT062-Datamate-T-Contact-8-5A-signal-contact-General.pdf": null
+            }
+        },
+        "GPN-0000-1966": {
+            "2869811.pdf": null
+        },
+        "GPN-0000-1967": {
+            "0900766b8157a77c.pdf": null
+        },
+        "GPN-0000-1968": {
+            "0900766b81579e34.pdf": null
+        },
+        "GPN-0000-1969": {
+            "A700000008708159.pdf": null
+        },
+        "GPN-0000-1970": {
+            "A700000008708119.pdf": null
+        },
+        "GPN-0000-1971": {
+            "0900766b81579e16.pdf": null
+        },
+        "GPN-0000-1972": {
+            "0900766b81579e4a.pdf": null
+        },
+        "GPN-0000-1973": {
+            "4015955.pdf": null
+        },
+        "GPN-0000-1977": {
+            "CE0037302EN.pdf": null,
+            "Datasheet_DB0037302EN.pdf": null,
+            "T9_Core_ID_code_as_per_VDE_colour_code_int.pdf": null,
+            "UILCPRDOP17_0037302-1.pdf": null,
+            "UK0037302EN.pdf": null
+        },
+        "GPN-0000-1978": {
+            "2200493.pdf": null,
+            "2D Drawing_ENG_CD_ZH150_A.pdf": null,
+            "Datasheet_2200492.pdf": null,
+            "ENG_MSDS_SDS0280-CA-ENG_1.0.pdf": null,
+            "Installation Instructions_ENG_SS_ELE-3COP-577_1.pdf": null
+        },
+        "GPN-0000-1980": {
+            "Datasheet_12_070-180554.pdf": null
+        },
+        "GPN-0000-1981": {},
+        "GPN-0000-1982": {
+            "CE0037302EN.pdf": null,
+            "DB0037302EN.pdf": null,
+            "T9_Core_ID_code_as_per_VDE_colour_code_int.pdf": null,
+            "UILCPRDOP17_0037302-1.pdf": null,
+            "UK0037302EN.pdf": null
+        },
+        "GPN-0000-1983": {
+            "2869811 (1).pdf": null
+        },
+        "GPN-0000-1986": {
+            "2D Drawings": {
+                "DRG-02965-Technical-Drawing-Datasheet-M80-263F2XX-XX-XX-pdf.pdf": null,
+                "GPN-0000-1986_m80-263f204-00-00 Drawing.dxf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1986_m80-263f204-00-00.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "C049-C049XX-Component-Specification-Cable-Assembly-Specifications-for-all-HRi-products.pdf": null,
+            "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-01038-Material-composition-for-M80-263F2XX-00-00-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-263F204-00-00.pdf": null
+            },
+            "PD003-Product-Datasheet-Datamate-Mix-Tek-range-HRi.pdf": null,
+            "Testing": {
+                "HT001-Test-Report-HT001-Datamate-Mechanical-Endurance-number-of-cycles-up-to-10-000.pdf": null,
+                "HT002-Test-Report-HT002-Datamate-Voltage-Proof-Voltage-Flashover-and-Insulation-Resistance.pdf": null,
+                "HT004-Test-Report-HT004-Datamate-J-Tek-Environmental-Vibration-Shock-Bump-Acceleration-and-other-tests.pdf": null,
+                "HT015-Test-Report-HT015-Datamate-Environmental-Vibration-Shock-Bump-J-Tek-and-101Lok.pdf": null,
+                "HT017-Test-Report-HT017-Datamate-L-Tek-Contact-Resistance-after-3-and-15-years-Artificial-Aging.pdf": null,
+                "HT020-Test-Report-HT020-Datamate-Mix-Tek-Special-Contacts-Environmental-Mechanical-and-Electrical.pdf": null,
+                "HT035-Test-Report-HT035-Datamate-Mix-Tek-Power-Connectors-Mechanical-and-Electrical.pdf": null,
+                "HT040-Test-Report-HT040-Datamate-High-Power-Contacts-Mechanical-and-Electrical.pdf": null,
+                "HT052-Test-Report-HT052-Datamate-Coax-M80-307-M80-317-contacts-RF-Test.pdf": null,
+                "HT078-Test-Report-HT078-Datamate-Mix-Tek-20A-Power-testing.pdf": null
+            }
+        },
+        "GPN-0000-1987": {
+            "2D Drawing": {
+                "DRG-00786-Technical-Drawing-Datasheet-M80-326-327-pdf.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1987_m80-327.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "C049-C049XX-Component-Specification-Cable-Assembly-Specifications-for-all-HRi-products.pdf": null,
+            "DPTDMSPEC-Plating-thickness-on-Datamate-power-and-coax-contacts.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00871-Material-composition-for-M80-327-product.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-327.pdf": null
+            },
+            "PD003-Product-Datasheet-Datamate-Mix-Tek-range-HRi.pdf": null,
+            "Testing": {
+                "HT020-Test-Report-HT020-Datamate-Mix-Tek-Special-Contacts-Environmental-Mechanical-and-Electrical.pdf": null,
+                "HT035-Test-Report-HT035-Datamate-Mix-Tek-Power-Connectors-Mechanical-and-Electrical.pdf": null,
+                "HT078-Test-Report-HT078-Datamate-Mix-Tek-20A-Power-testing.pdf": null
+            }
+        },
+        "GPN-0000-1988": {
+            "2869805.pdf": null
+        },
+        "GPN-0000-1989": {
+            "2869805 (1).pdf": null
+        },
+        "GPN-0000-1990": {},
+        "GPN-0000-1991": {
+            "2869805.pdf": null
+        },
+        "GPN-0000-1992": {
+            "2869810.pdf": null
+        },
+        "GPN-0000-1993": {
+            "2869810 (1).pdf": null
+        },
+        "GPN-0000-1994": {
+            "2869810.pdf": null
+        },
+        "GPN-0000-1995": {
+            "ETON-S-A0001030147-1.pdf": null
+        },
+        "GPN-0000-2001": {
+            "2D Drawings": {
+                "GPN-0000-2000_AT06-12SB Drawing.dxf": null,
+                "GPN-0000-2000_AT06-12SB Drawing.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-2000_AT06-12SB.stp": null
+            },
+            "A-Series-Contacts.pdf": null,
+            "AT-Series.pdf": null,
+            "Datasheet AT06-12SB.pdf": null
+        },
+        "GPN-0000-2004": {
+            "3D CAD": {
+                "GPN-0000-2004_TCEHCBS-12-01.stp": null
+            },
+            "TCEHCBS-8-01.pdf": null
+        },
+        "GPN-0000-2006": {
+            "2D Drawings": {
+                "GPN-0000-2006_734-202.dxf": null
+            },
+            "Datasheet.pdf": null,
+            "WAGO_734202": {
+                "GPN-0000-2006_734-202.stp": null
+            }
+        },
+        "GPN-0000-2007": {
+            "3D CAD": {
+                "GPN-0000-2007_734-203.stp": null
+            },
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2009": {
+            "Page 56-0900766b816b073d.pdf": null
+        },
+        "GPN-0000-2010": {
+            "CE Declaration_CE0038302EN.pdf": null,
+            "Datasheet_DB0038302EN.pdf": null,
+            "T9_Core_ID_code_as_per_VDE_colour_code_int.pdf": null,
+            "UILCPRDOP17_0037302-1.pdf": null,
+            "UKCA Declaration_UK0038302EN.pdf": null
+        },
+        "GPN-0000-2011": {
+            "Datasheet.pdf": null,
+            "ENG_CS_1654025_Sec9_Type99M_0313.pdf": null,
+            "Environmental": {
+                "Tyco_RoHS_Certificate.pdf": null,
+                "TYEL-E-A0003429746-1.pdf": null,
+                "TYEL-E-A0005654259-1.pdf": null,
+                "TYEL-E-A0011126205-1.pdf": null,
+                "TYEL-E-A0018689306-1.xlsx": null,
+                "TYEL-E-A0019760687-1.pdf": null
+            }
+        },
+        "GPN-0000-2012": {
+            "1695083.pdf": null
+        },
+        "GPN-0000-2013": {
+            "Datasheet_ENG_DS_1-1773896-9_zh150_0518.pdf": null,
+            "Drawing_ENG_CD_ZH150_A.pdf": null,
+            "Instructions_ENG_SS_ELE-3COP-577_1.pdf": null,
+            "Testing_ENG_SS_RW-3044_2.pdf": null
+        },
+        "GPN-0000-2014": {
+            "1695083 (1).pdf": null
+        },
+        "GPN-0000-2015": {
+            "1695083.pdf": null
+        },
+        "GPN-0000-2016": {
+            "Datasheet_DB0038302EN.pdf": null,
+            "Declarations": {
+                "CE Declaration_CE0038302EN.pdf": null,
+                "UILCPRDOP17_0037302-1.pdf": null,
+                "UKCA Declaration_UK0038302EN.pdf": null
+            },
+            "T9_Core_ID_code_as_per_VDE_colour_code_int.pdf": null
+        },
+        "GPN-0000-2017": {
+            "Datasheet_DB0038302EN.pdf": null,
+            "Declarations": {
+                "CE Declaration_CE0038302EN.pdf": null,
+                "UILCPRDOP17_0037302-1.pdf": null,
+                "UKCA Declaration_UK0038302EN.pdf": null
+            },
+            "T9_Core_ID_code_as_per_VDE_colour_code_int.pdf": null
+        },
+        "GPN-0000-2018": {
+            "2D Drawing C6015_M666_M667.pdf": null,
+            "3D CAD": {
+                "GPN-0000-2018_C6015_M666_M667.dxf": null,
+                "GPN-0000-2018_C6015_M666_M667.stp": null
+            },
+            "Beckhoff-Device-Manager_en.pdf": null,
+            "Manual_C6015_en.pdf": null
+        },
+        "GPN-0000-2020": {
+            "GPN-0000-2020 Datasheet.pdf": null,
+            "RMFC82-PA66-MDS.pdf": null,
+            "RMFC82-PA66-UL.pdf": null
+        },
+        "GPN-0000-2021": {},
+        "GPN-0000-2022": {},
+        "GPN-0000-2023": {
+            "DOC-DTS-019-01-VCCM-series-output-A-datasheet.pdf": null,
+            "DOC-SAF-003-02_Vox_Power_RoHS_Declaration-2.pdf": null
+        },
+        "GPN-0000-2024": {},
+        "GPN-0000-2027": {},
+        "GPN-0000-2031": {
+            "Datasheet_2344760.pdf": null,
+            "rohsCert_2290679.pdf": null
+        },
+        "GPN-0000-2032": {
+            "Datasheet_2344759.pdf": null,
+            "rohsCert_2290680.pdf": null
+        },
+        "GPN-0000-2034": {
+            "GPN-0000-2034 Datasheet.pdf": null,
+            "GPN-0000-2034 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2035": {
+            "GPN-0000-2035 Datasheet.pdf": null,
+            "GPN-0000-2035 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2041": {
+            "GPN-0000-2041 Datasheet.pdf": null,
+            "GPN-0000-2041 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2042": {
+            "GPN-0000-2042 Datasheet.pdf": null,
+            "GPN-0000-2042 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2043": {
+            "GPN-0000-2043 Datasheet.pdf": null,
+            "GPN-0000-2043 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2044": {
+            "GPN-0000-2044 Datasheet.pdf": null,
+            "GPN-0000-2044 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2045": {
+            "GPN-0000-2045 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2046": {
+            "GPN-0000-2046 Datasheet.pdf": null,
+            "GPN-0000-2046 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2047": {},
+        "GPN-0000-2048": {
+            "GPN-0000-2048 Datasheet.pdf": null
+        },
+        "GPN-0000-2049": {},
+        "GPN-0000-2050": {
+            "(2D) PWF-02PFFS-SC7001.pdf": null,
+            "ALTW Power PWF Product Specification.pdf": null,
+            "PWF-02PFFS-SC7001-IGS.igs": null
+        },
+        "GPN-0000-2051": {},
+        "GPN-0000-2052": {
+            "GPN-0000-2052 Datasheet.pdf": null,
+            "GPN-0000-2052 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2060": {
+            "2081957.pdf": null
+        },
+        "GPN-0000-2061": {
+            "2774694.pdf": null
+        },
+        "GPN-0000-2062": {
+            "1695083.pdf": null
+        },
+        "GPN-0000-2063": {
+            "2161114 (1).pdf": null
+        },
+        "GPN-0000-2064": {
+            "1695083.pdf": null
+        },
+        "GPN-0000-2065": {
+            "1695083 (1).pdf": null
+        },
+        "GPN-0000-2083": {
+            "AV02-0189EN Application Note.pdf": null,
+            "GPN-0000-2083 Datasheet.pdf": null,
+            "GPN-0000-2083 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2130": {
+            "GPN-0000-2130 - Copied from EBAY listing.docx": null
+        },
+        "GPN-0000-2222": {
+            "GPN-0000-2222 Datasheet.pdf": null,
+            "GPN-0000-2222 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2323": {
+            "GPN-0000-2323 Datasheet.pdf": null,
+            "GPN-0000-2323 ROHS_Certificate.pdf": null
+        }
+    },
+    "Electronics": {
+        "ESD Control": {
+            "ESD Control (RS).pdf": null
+        },
+        "GPN-0000-0001": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-0017": {
+            "Datasheet.pdf": null,
+            "GPN-0000-0017 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0019": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0020": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0022": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0023": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0024": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0025": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0027": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0031": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0032": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0034": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0040": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0062": {
+            "GPN-0000-0062 Datasheet.pdf": null,
+            "GPN-0000-0062 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0189": {
+            "GPN-0000-0189 Datasheet.pdf": null,
+            "GPN-0000-0189 ROHS.pdf": null
+        },
+        "GPN-0000-0228": {
+            "Datasheet_90002180.pdf": null,
+            "Declaration of Conformity, XBee S6B (Wi-Fi) SMT, RED, 1222.pdf": null,
+            "Entering Command Mode.PNG": null,
+            "ROHS_Certificate.pdf": null,
+            "ROSH_XB2B-WFRS-001_MCD.pdf": null,
+            "UK_DoC, XBee S6B (Wi-Fi) SMT, UKCA, 1222.pdf": null
+        },
+        "GPN-0000-0237": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0256": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0262": {
+            "GPN-0000-0262 Datasheet.pdf": null,
+            "GPN-0000-0262 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0289": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0290": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0292": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0293": {
+            "Datasheet.pdf": null,
+            "GPN-0000-0293 LittleFuse equivalent Datasheet with footprint dimensions.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0312": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0313": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0314": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0315": {
+            "Datasheet.pdf": null,
+            "ROHS.pdf": null,
+            "ROHS_certificate.pdf": null
+        },
+        "GPN-0000-0316": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0317": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0318": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0319": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0320": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0321": {
+            "Datasheet.pdf": null,
+            "Declaration of Conformity.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0322": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0323": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0324": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0325": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0326": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0327": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0328": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0329": {
+            "Datasheet.pdf": null,
+            "GPN-0000-0329 Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0330": {
+            "GPN-0000-0330 Datasheet.pdf": null,
+            "GPN-0000-0330 ROHS.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0331": {
+            "Datasheet.PDF": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0332": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0333": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0334": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0335": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0336": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0337": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0338": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0339": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0340": {
+            "Datasheet.pdf": null,
+            "Declaration of Conformity EU.pdf": null,
+            "Declaration of Conformity UK.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0341": {
+            "Declaration of Conformity.pdf": null,
+            "GPN-0000-0341 Datasheet.pdf": null,
+            "Layout notes.pdf": null,
+            "ROHS_Certificate.pdf": null,
+            "tmr3wi_characteristic_curves.pdf": null
+        },
+        "GPN-0000-0342": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0343": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0344": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0345": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0346": {
+            "Datasheet.htm": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0347": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0348": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0349": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0350": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0351": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0352": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0353": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0354": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0355": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0356": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0357": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0358": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0359": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0360": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0361": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0365": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0366": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0367": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0368": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0369": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0370": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-0386": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-0394": {
+            "Datasheet.pdf": null,
+            "RoHS Certificate.pdf": null
+        },
+        "GPN-0000-0395": {
+            "Datasheet.pdf": null,
+            "RoHS Certificate.pdf": null
+        },
+        "GPN-0000-0420": {
+            "Datasheet_2620235.pdf": null,
+            "GPN-0000-0420 ROHS_Certificate.pdf": null,
+            "orderinfo.pdf": null,
+            "testprocedures.pdf": null
+        },
+        "GPN-0000-0428": {
+            "GPN-0000-0428 Datasheet.pdf": null,
+            "GPN-0000-0428 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0429": {
+            "GPN-0000-0429 Datasheet.pdf": null,
+            "GPN-0000-0429 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0434": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0438": {
+            "GPN-0000-0438 Datasheet.pdf": null,
+            "GPN-0000-0438 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0441": {
+            "GPN-0000-0441 Datasheet.pdf": null,
+            "GPN-0000-0441 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0454": {
+            "GPN-0000-0454 Datasheet.pdf": null,
+            "GPN-0000-0454 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0607": {
+            "Datasheet.pdf": null,
+            "RoHS Certificate.pdf": null
+        },
+        "GPN-0000-0608": {
+            "13 Channel datasheet": {
+                "Datasheet.pdf": null
+            },
+            "GPN-0000-0608.pdf": null,
+            "RoHS Certificate.pdf": null
+        },
+        "GPN-0000-0620": {
+            "GPN-0000-0620 Datasheet.pdf": null,
+            "Old": {
+                "Datasheet.pdf": null
+            },
+            "RoHS Certificate.PNG": null
+        },
+        "GPN-0000-0634": {
+            "Datasheet.pdf": null,
+            "RoHS Certificate.PNG": null
+        },
+        "GPN-0000-0635": {
+            "GPN-0000-0635 Datasheet.pdf": null,
+            "GPN-0000-0635 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0825": {
+            "GPN-0000-0825 Datasheet.pdf": null
+        },
+        "GPN-0000-0830": {
+            "GPN-0000-0830 Datasheet.pdf": null,
+            "GPN-0000-0830 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0831": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0851": {
+            "Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0852": {
+            "GPN-0000-0852 Datasheet.pdf": null,
+            "GPN-0000-0852 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0853": {
+            "GPN-0000-0853 Datasheet.pdf": null,
+            "GPN-0000-0853 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0895": {
+            "GPN-0000-0895 Datasheet 2.pdf": null,
+            "GPN-0000-0895 Datasheet.pdf": null,
+            "GPN-0000-0895 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0933": {
+            "GPN-0000-0933 Datasheet.pdf": null,
+            "GPN-0000-0933 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0970": {
+            "GPN-0000-0970 Datasheet.pdf": null
+        },
+        "GPN-0000-0992": {
+            "GPN-0000-0992 Datasheet.pdf": null,
+            "GPN-0000-0992 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-0993": {
+            "GPN-0000-0993 Datasheet.pdf": null,
+            "GPN-0000-0993 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1018": {
+            "GPN-0000-1018 Datasheet.pdf": null,
+            "GPN-0000-1018 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1020": {
+            "GPN-0000-1020 Datasheet.pdf": null,
+            "GPN-0000-1020 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1108": {
+            "GPN-0000-1108 Datasheet.pdf": null,
+            "GPN-0000-1108 ROHS_Certificate 2.pdf": null,
+            "GPN-0000-1108 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1130": {
+            "GPN-0000-1130 Datasheet.pdf": null,
+            "GPN-0000-1130 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1136": {
+            "GPN-0000-1136 Datasheet.pdf": null,
+            "GPN-0000-1136 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1137": {
+            "GPN-0000-1137 Datasheet.pdf": null,
+            "GPN-0000-1137 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1138": {
+            "GPN-0000-1138 Datasheet.pdf": null,
+            "GPN-0000-1138 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1148": {
+            "GPN-0000-1148 Datasheet.pdf": null,
+            "GPN-0000-1148 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1149": {
+            "GPN-0000-1149 Datasheet.pdf": null,
+            "GPN-0000-1149 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1150": {
+            "GPN-0000-1150 Datasheet.pdf": null,
+            "GPN-0000-1150 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1151": {
+            "GPN-0000-1151 Datasheet.pdf": null,
+            "GPN-0000-1151 ROHS_Datasheet.pdf": null
+        },
+        "GPN-0000-1154": {
+            "GPN-0000-1154 Datasheet.pdf": null,
+            "GPN-0000-1154 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1155": {
+            "GPN-0000-1155 Datasheet.pdf": null,
+            "GPN-0000-1155 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1156": {
+            "GPN-0000-1156 Datasheet.pdf": null,
+            "GPN-0000-1156 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1159": {
+            "GPN-0000-1159 Datasheet.pdf": null,
+            "GPN-0000-1159 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1160": {
+            "GPN-0000-1160 Datasheet.pdf": null,
+            "GPN-0000-1160 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1161": {
+            "GPN-0000-1161 Datasheet.pdf": null,
+            "GPN-0000-1161 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1165": {
+            "GPN-0000-1165 Datasheet.pdf": null,
+            "GPN-0000-1165 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1166": {
+            "GPN-0000-1166 Datasheet.pdf": null
+        },
+        "GPN-0000-1167": {
+            "GPN-0000-1167 Datasheet.pdf": null,
+            "GPN-0000-1167 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1169": {},
+        "GPN-0000-1171": {
+            "GPN-0000-1171 Datasheet.pdf": null,
+            "GPN-0000-1171 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1172": {
+            "GPN-0000-1172 Datasheet.pdf": null,
+            "GPN-0000-1172 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1201": {
+            "GPN-0000-1201 Catalogue.pdf": null,
+            "GPN-0000-1201 Datasheet.pdf": null,
+            "GPN-0000-1201 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1202": {
+            "GPN-0000-1201 Datasheet - Dimensions.pdf": null,
+            "GPN-0000-1202 Datasheet.pdf": null,
+            "GPN-0000-1202 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1217": {
+            "GPN-0000-1217 Datasheet.pdf": null,
+            "GPN-0000-1217 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1218": {
+            "GPN-0000-1218 Datasheet.pdf": null,
+            "GPN-0000-1218 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1220": {
+            "GPN-0000-1220 Datasheet.pdf": null,
+            "GPN-0000-1220 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1222": {
+            "GPN-0000-1222 Datasheet.pdf": null,
+            "GPN-0000-1222 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1224": {
+            "GPN-0000-1224 Datasheet.pdf": null,
+            "GPN-0000-1224 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1225": {
+            "GPN-0000-1225 Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1243": {
+            "GPN-0000-1243 Datasheet.pdf": null,
+            "GPN-0000-1243 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1246": {
+            "GPN-0000-1246 Datasheet.pdf": null,
+            "GPN-0000-1246 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1267": {
+            "2D Drawing": {
+                "850620_RevA_CUST DWG, MODM7AE70.PDF": null
+            },
+            "3D CAD": {
+                "Netburner_MODM7AE70-100IR.step": null
+            },
+            "Datasheet": {
+                "Datasheet_MODM7AE70_100_200IR-1549651.pdf": null
+            },
+            "GPN-0000-1267_READ ME.txt": null,
+            "RoHS Certificate": {
+                "RoHS3CertOfCompliance-20190422.pdf": null
+            },
+            "Schematic": {
+                "MOD-DEV-70_HwPCBSchematic-R1p93.pdf": null
+            }
+        },
+        "GPN-0000-1268": {
+            "3D CAD": {
+                "713-1410_107-000.stp": null
+            },
+            "Datasheet": {
+                "Band-2-2023-Technischer-Anhang-EN-en.pdf": null
+            },
+            "GPN-0000-1268_READ ME.txt": null,
+            "RoHS Certificate": {
+                "RoHS_REACH.pdf": null
+            }
+        },
+        "GPN-0000-1269": {
+            "3D CAD": {
+                "713-1110_107-000.stp": null
+            },
+            "Approvals": {
+                "General approvals": {
+                    "Band 2_2023_Technischer Anhang_EN_en.pdf": null,
+                    "UL sec 24.pdf": null
+                }
+            },
+            "Datasheet": {
+                "Band-2-2023-Technischer-Anhang-EN-en.pdf": null,
+                "WAGO_713-1110_107-000en.pdf": null
+            },
+            "GPN-0000-1268_READ ME.txt": null,
+            "RoHS Certificate": {
+                "RoHS_REACH (1).pdf": null
+            }
+        },
+        "GPN-0000-1357": {
+            "GPN-0000-1357 Datasheet.pdf": null,
+            "GPN-0000-1357 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1366": {
+            "GPN-0000-1366 Datasheet.pdf": null,
+            "GPN-0000-1366 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1367": {
+            "GPN-0000-1367 Datasheet.pdf": null,
+            "GPN-0000-1367 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1385": {
+            "GPN-0000-1385 Datasheet.pdf": null,
+            "GPN-0000-1385 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1388": {
+            "GPN-0000-1388 Datasheet.pdf": null,
+            "GPN-0000-1388 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1389": {
+            "GPN-0000-1389 Datasheet.pdf": null,
+            "GPN-0000-1389 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1390": {
+            "GPN-0000-1390 Datasheet.pdf": null,
+            "GPN-0000-1390 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1391": {
+            "GPN-0000-1391 Datasheet.pdf": null,
+            "GPN-0000-1391 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1392": {
+            "GPN-0000-1392 Datasheet.pdf": null,
+            "GPN-0000-1392 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1393": {
+            "GPN-0000-1393 Datasheet.pdf": null,
+            "GPN-0000-1393 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1394": {
+            "GPN-0000-1394 Datasheet.pdf": null,
+            "GPN-0000-1394 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1395": {
+            "GPN-0000-1395 Datasheet.pdf": null,
+            "GPN-0000-1395 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1396": {
+            "GPN-0000-1396 Datasheet.pdf": null,
+            "GPN-0000-1396 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1397": {
+            "GPN-0000-1397 Datasheet.pdf": null,
+            "GPN-0000-1397 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1398": {
+            "GPN-0000-1398 Datasheet.pdf": null,
+            "GPN-0000-1398 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1399": {
+            "GPN-0000-1399 Datasheet.pdf": null,
+            "GPN-0000-1399 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1400": {
+            "GPN-0000-1400 Datasheet.pdf": null,
+            "GPN-0000-1400 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1401": {
+            "GPN-0000-1401 Datasheet.pdf": null,
+            "GPN-0000-1401 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1402": {
+            "GPN-0000-1402 Datasheet (Spartan series overview).pdf": null,
+            "GPN-0000-1402 Datasheet.pdf": null,
+            "GPN-0000-1402 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1403": {
+            "GPN-0000-1403 Datasheet.pdf": null,
+            "GPN-0000-1403 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1419": {
+            "GPN-0000-1419 Datasheet.pdf": null,
+            "GPN-0000-1419 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1420": {
+            "GPN-0000-1420 Datasheet.pdf": null,
+            "GPN-0000-1420 ROHS_Certificate.pdf": null,
+            "Mechanical Drawing.pdf": null
+        },
+        "GPN-0000-1422": {
+            "GPN-0000-1422 Datasheet.pdf": null,
+            "GPN-0000-1422 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1423": {
+            "GPN-0000-1423 Datasheet.pdf": null,
+            "GPN-0000-1423 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1424": {
+            "GPN-0000-1424 Datasheet.pdf": null,
+            "GPN-0000-1424 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1425": {
+            "GPN-0000-1425 Datasheet.pdf": null,
+            "GPN-0000-1425 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1433": {
+            "GPN-0000-1433 Datasheet.pdf": null,
+            "GPN-0000-1433 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1434": {
+            "GPN-0000-1434 Datasheet.pdf": null,
+            "GPN-0000-1434 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1442": {
+            "GPN-0000-1442 Datasheet.pdf": null,
+            "GPN-0000-1442 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1444": {
+            "GPN-0000-1444 Datasheet.pdf": null,
+            "GPN-0000-1444 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1445": {
+            "GPN-0000-1445 Datasheet.pdf": null,
+            "GPN-0000-1445 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1448": {
+            "GPN-0000-1448 Datasheet.pdf": null,
+            "GPN-0000-1448 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1453": {
+            "GPN-0000-1453 Datasheet.pdf": null,
+            "GPN-0000-1453 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1455": {
+            "GPN-0000-1455 Datasheet.pdf": null,
+            "GPN-0000-1455 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1517": {
+            "GPN-0000-1517 Datasheet.pdf": null,
+            "GPN-0000-1517 ROHS.pdf": null
+        },
+        "GPN-0000-1525": {
+            "GPN-0000-1525 Datasheet.pdf": null,
+            "GPN-0000-1525 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1547": {
+            "ARTY 7 Dev. Board": {
+                "GPN-0000-1605 Datasheet.pdf": null,
+                "Mechanical_Arty_S7.pdf": null,
+                "Schematic.pdf": null
+            },
+            "Dimensions.pdf": null,
+            "Downloaded Pinout": {
+                "Pinout.txt": null,
+                "Spartan 7 Pinout.csv": null
+            },
+            "GPN-0000-1547 Datasheet.pdf": null,
+            "GPN-0000-1547 PCB Design Guide.pdf": null,
+            "GPN-0000-1547 ROHS_Certificate.pdf": null,
+            "INTEL FPGA (Reference).pdf": null,
+            "Packaging, Pin Out.pdf": null,
+            "Pin Diagram.pdf": null
+        },
+        "GPN-0000-1548": {
+            "GPN-0000-1548 Datasheet.pdf": null,
+            "GPN-0000-1548 ROHS_Certificate.pdf": null,
+            "REN_an-pm-096_dialog_power_solutions_for_xilinx_spartan-7_devices_APN_20200414.pdf": null
+        },
+        "GPN-0000-1552": {
+            "GPN-0000-1552 Datasheet.pdf": null,
+            "GPN-0000-1552 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1553": {
+            "GPN-0000-1553 Datasheet.pdf": null,
+            "GPN-0000-1553 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1556": {
+            "GPN-0000-1556 Datasheet.pdf": null,
+            "GPN-0000-1556 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1573": {
+            "GPN-0000-1573 Datasheet.pdf": null,
+            "GPN-0000-1573 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1592": {
+            "GPN-0000-1592 Datasheet.pdf": null,
+            "GPN-0000-1592 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1593": {
+            "GPN-0000-1593 Datasheet.pdf": null,
+            "GPN-0000-1593 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1603": {
+            "GPN-0000-1603 Datasheet.pdf": null,
+            "GPN-0000-1603 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1605": {
+            "2D Drawings": {
+                "Arty S7": {
+                    "Arty_S7_DXF.DXF": null,
+                    "Mechanical_Arty_S7.pdf": null,
+                    "__Previews": {
+                        "PCB.PcbDocPreview": null,
+                        "Sheet1.SchDocPreview": null,
+                        "Sheet10.SchDocPreview": null,
+                        "Sheet11.SchDocPreview": null,
+                        "Sheet12.SchDocPreview": null,
+                        "Sheet2.SchDocPreview": null,
+                        "Sheet3.SchDocPreview": null,
+                        "Sheet4.SchDocPreview": null,
+                        "Sheet5.SchDocPreview": null,
+                        "Sheet6.SchDocPreview": null,
+                        "Sheet7.SchDocPreview": null,
+                        "Sheet8.SchDocPreview": null,
+                        "Sheet9.SchDocPreview": null,
+                        "xc7a15t.csvPreview": null
+                    }
+                }
+            },
+            "3D": {
+                "GPN-0000-1605_Arty_S7.stp": null
+            },
+            "Bottom layout.jpg": null,
+            "GPN-0000-1605 Datasheet.pdf": null,
+            "GPN-0000-1605 ROHS_Certificate.pdf": null,
+            "Schematic.pdf": null,
+            "Thumbs.db": null,
+            "Website": {
+                "GPN-0000-1605 Datasheet.pdf": null
+            }
+        },
+        "GPN-0000-1606": {
+            "GPN-0000-1606 Datasheet.pdf": null,
+            "GPN-0000-1606 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1607": {
+            "GPN-0000-1607 Datasheet.pdf": null,
+            "GPN-0000-1607 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1608": {
+            "GPN-0000-1608 Datasheet.pdf": null,
+            "GPN-0000-1608 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1619": {
+            "GPN-0000-1619 Datasheet.pdf": null,
+            "GPN-0000-1619 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1620": {
+            "GPN-0000-1620 Datasheet.pdf": null,
+            "GPN-0000-1620 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1629": {
+            "GPN-0000-1629 Datasheet.pdf": null
+        },
+        "GPN-0000-1637": {
+            "GPN-0000-1637 Datasheet.pdf": null,
+            "GPN-0000-1637 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1659": {
+            "GPN-0000-1659 Datasheet.pdf": null,
+            "GPN-0000-1659 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1665": {
+            "GPN-0000-1665 Datasheet.pdf": null,
+            "GPN-0000-1665 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1729": {
+            "GPN-0000-1729 Datasheet.pdf": null,
+            "GPN-0000-1729 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1730": {
+            "GPN-0000-1730 Datasheet.PDF": null,
+            "GPN-0000-1730 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1740": {
+            "Design Files": {
+                "Gold-Solo-Bell-DXF.zip": null,
+                "Gold-Solo-Bell-STEP.zip": null
+            },
+            "GPN-0000-1740 Ordering info.jpg": null
+        },
+        "GPN-0000-1743": {
+            "GPN-0000-1743 Datasheet.pdf": null,
+            "ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1770": {
+            "GPN-0000-1770 Datasheet.pdf": null
+        },
+        "GPN-0000-1771": {
+            "GPN-0000-1771 Datasheet.pdf": null
+        },
+        "GPN-0000-1790": {
+            "GPN-0000-1790 Datasheet.pdf": null,
+            "GPN-0000-1790 ROHS.pdf": null
+        },
+        "GPN-0000-1791": {
+            "GPN-0000-1791 Datasheet.pdf": null,
+            "GPN-0000-1791 ROHS.pdf": null
+        },
+        "GPN-0000-1864": {
+            "GPN-0000-1864 Datasheet.pdf": null,
+            "GPN-0000-1864 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1872": {
+            "GPN-0000-1872 Datasheet.pdf": null
+        },
+        "GPN-0000-1873": {
+            "GPN-0000-1873 Datasheet.pdf": null
+        },
+        "GPN-0000-1874": {
+            "GPN-0000-1874 Datasheet.pdf": null,
+            "GPN-0000-1874 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1892": {
+            "GPN-0000-1892 ROHS.pdf": null
+        },
+        "GPN-0000-1897": {
+            "GPN-0000-1897 Datasheet.pdf": null,
+            "GPN-0000-1897 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1909": {
+            "GPN-0000-1909 Datasheet.pdf": null,
+            "GPN-0000-1909 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1911": {
+            "GPN-0000-1911 Datasheet.pdf": null,
+            "GPN-0000-1911 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1912": {
+            "GPN-0000-1912 Datasheet.pdf": null,
+            "GPN-0000-1912 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1914": {
+            "GPN-0000-1914 Product Specification.pdf": null,
+            "GPN-0000-1914 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1915": {
+            "GPN-0000-1915 Datasheet.pdf": null,
+            "GPN-0000-1915 ROHS_Certificate.pdf": null,
+            "thn15wi_characteristic_curves.pdf": null,
+            "thn15wi_emc_consideration.pdf": null,
+            "thn15wi_remote_control.pdf": null,
+            "thn15wi_thn20wi_thn30wi_voltage_adjustment.pdf": null
+        },
+        "GPN-0000-1916": {
+            "GPN-0000-1916 Datasheet.pdf": null,
+            "GPN-0000-1916 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1917": {
+            "GPN-0000-1917 Datasheet.pdf": null,
+            "GPN-0000-1917 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1918": {
+            "GPN-0000-1918 Datasheet.pdf": null,
+            "GPN-0000-1918 Drawing.pdf": null,
+            "GPN-0000-1918 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1923": {
+            "GPN-0000-1923 Datasheet.pdf": null,
+            "GPN-0000-1923 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1924": {
+            "GPN-0000-1924 Datasheet.pdf": null,
+            "GPN-0000-1924 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1925": {
+            "GPN-0000-1925 Datasheet.pdf": null,
+            "GPN-0000-1925 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1927": {
+            "3D CAD": {
+                "GPN-0000-1927_733-368.stp": null
+            },
+            "ImportGuides.html": null,
+            "KiCAD": {
+                "2024-07-24_12-30-48.lib": null,
+                "footprints.pretty": {
+                    "733-368.kicad_mod": null
+                },
+                "ImportGuide.html": null
+            },
+            "KiCADv6": {
+                "2024-07-24_12-30-48.kicad_sym": null,
+                "footprints.pretty": {
+                    "CONN8_733-368_WAG.kicad_mod": null
+                },
+                "ImportGuide.html": null
+            },
+            "WAGO_733-368en_GB.pdf": null
+        },
+        "GPN-0000-1928": {
+            "GPN-0000-1928 Datasheet.pdf": null,
+            "GPN-0000-1928 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1929": {
+            "GPN-0000-1929 Datasheet.pdf": null,
+            "GPN-0000-1929 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1930": {
+            "GPN-0000-1930 Datasheet.pdf": null,
+            "GPN-0000-1930 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1931": {},
+        "GPN-0000-1932": {
+            "GPN-0000-1932 Datasheet.pdf": null,
+            "GPN-0000-1932 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1933": {
+            "GPN-0000-1933 Datasheet.pdf": null,
+            "GPN-0000-1933 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1936": {},
+        "GPN-0000-1938": {
+            "GPN-0000-1938 Datasheet.PDF": null,
+            "GPN-0000-1938 ROHS_Certificate.PDF": null
+        },
+        "GPN-0000-1939": {
+            "GPN-0000-1939 Datasheet.pdf": null
+        },
+        "GPN-0000-1940": {
+            "GPN-0000-1940 Datasheet.pdf": null,
+            "GPN-0000-1940 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1941": {
+            "GPN-0000-1941 Datasheet.pdf": null,
+            "GPN-0000-1941 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1942": {
+            "GPN-0000-1942 Datasheet.pdf": null,
+            "GPN-0000-1942 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1943": {
+            "GPN-0000-1943 Datasheet.pdf": null,
+            "GPN-0000-1943 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1944": {
+            "GPN-0000-1944 Datasheet.pdf": null,
+            "GPN-0000-1944 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1945": {
+            "GPN-0000-1945 Datasheet.pdf": null,
+            "GPN-0000-1945 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1946": {
+            "GPN-0000-1946 Datasheet.pdf": null,
+            "GPN-0000-1946 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1947": {
+            "GPN-0000-1947 Datasheet.pdf": null,
+            "GPN-0000-1947 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1948": {
+            "GPN-0000-1948 Datasheet.pdf": null,
+            "GPN-0000-1948 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1949": {
+            "GPN-0000-1949 Datasheet.pdf": null,
+            "GPN-0000-1949 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1950": {
+            "3D CAD": {
+                "GPN-0000-1950_m80-5000642.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "DRG-01208-Technical-Drawing-Datasheet-M80-500-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null,
+                "DPTDMSIG-Plating-thickness-on-Datamate-signal-contacts-T-Contact.pdf": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00312-Material-composition-for-M80-500-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-5000642.pdf": null
+            },
+            "Footprint & Symbol": {
+                "2024-08-06_10-31-17.kicad_sym": null,
+                "GPN-0000-1950a": {
+                    "CONN6_M80-5000642_HRW.kicad_mod": null
+                }
+            },
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "HT001-Test-Report-HT001-Datamate-Mechanical-Endurance-number-of-cycles-up-to-10-000.pdf": null,
+                "HT002-Test-Report-HT002-Datamate-Voltage-Proof-Voltage-Flashover-and-Insulation-Resistance.pdf": null,
+                "HT004-Test-Report-HT004-Datamate-J-Tek-Environmental-Vibration-Shock-Bump-Acceleration-and-other-tests.pdf": null,
+                "HT015-Test-Report-HT015-Datamate-Environmental-Vibration-Shock-Bump-J-Tek-and-101Lok.pdf": null,
+                "HT017-Test-Report-HT017-Datamate-L-Tek-Contact-Resistance-after-3-and-15-years-Artificial-Aging.pdf": null,
+                "HT019-Test-Report-HT019-Datamate-Frequency-Testing-to-EIA-364-108-2000-2007-USB2-0.pdf": null,
+                "HT025-Test-Report-HT025-Datamate-L-Tek-Environmental-Detailed-Vibration-Shock-and-Bump.pdf": null
+            }
+        },
+        "GPN-0000-1953": {
+            "3D CAD": {
+                "GPN-0000-1953_m80-5100605.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "DPTDMSIG-Plating-thickness-on-Datamate-signal-contacts-T-Contact.pdf": null,
+            "DRG-01235-Technical-Drawing-Datasheet-M80-510-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00320-Material-composition-for-M80-510-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-5100605.pdf": null
+            },
+            "Footprint & Symbol": {
+                "KiCADv6": {
+                    "2024-08-06_12-49-05.kicad_sym": null,
+                    "footprints.pretty": {
+                        "CONN_M80-5100642_HRW.kicad_mod": null
+                    }
+                }
+            },
+            "Instructions": {},
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {
+                "HT001-Test-Report-HT001-Datamate-Mechanical-Endurance-number-of-cycles-up-to-10-000.pdf": null,
+                "HT002-Test-Report-HT002-Datamate-Voltage-Proof-Voltage-Flashover-and-Insulation-Resistance.pdf": null,
+                "HT004-Test-Report-HT004-Datamate-J-Tek-Environmental-Vibration-Shock-Bump-Acceleration-and-other-tests.pdf": null,
+                "HT015-Test-Report-HT015-Datamate-Environmental-Vibration-Shock-Bump-J-Tek-and-101Lok.pdf": null,
+                "HT017-Test-Report-HT017-Datamate-L-Tek-Contact-Resistance-after-3-and-15-years-Artificial-Aging.pdf": null,
+                "HT019-Test-Report-HT019-Datamate-Frequency-Testing-to-EIA-364-108-2000-2007-USB2-0.pdf": null,
+                "HT025-Test-Report-HT025-Datamate-L-Tek-Environmental-Detailed-Vibration-Shock-and-Bump.pdf": null
+            }
+        },
+        "GPN-0000-1954": {
+            "3D CAD": {
+                "GPN-0000-1954_m80-5100842.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "DPTDMSIG-Plating-thickness-on-Datamate-signal-contacts-T-Contact.pdf": null,
+            "DRG-01235-Technical-Drawing-Datasheet-M80-510-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00320-Material-composition-for-M80-510-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-5100842.pdf": null
+            },
+            "Instructions": {
+                "CP016-Product-Training-Module-Overview-Guide-to-the-Datamate-range-2-4mm-pitch-High-Reliability.pdf": null
+            },
+            "PD004-Product-Datasheet-Datamate-range-signal-connectors-HRi.pdf": null,
+            "Testing": {}
+        },
+        "GPN-0000-1956": {
+            "3D CAD": {
+                "GPN-0000-1956_m80-5101242.stp": null
+            },
+            "Environmental": {},
+            "Footprint & Symbol": {
+                "M80-5101242": {
+                    "KiCad": {
+                        "M80-5101242.dcm": null,
+                        "M80-5101242.kicad_sym": null,
+                        "M80-5101242.lib": null,
+                        "M80-5101242.mod": null,
+                        "M80-51012YY.kicad_mod": null
+                    }
+                }
+            },
+            "Instructions": {},
+            "Testing": {}
+        },
+        "GPN-0000-1964": {
+            "3D CAD": {
+                "GPN-0000-1964_m80-5101442.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null,
+            "DPTDMSIG-Plating-thickness-on-Datamate-signal-contacts-T-Contact.pdf": null,
+            "DRG-01235-Technical-Drawing-Datasheet-M80-510-pdf.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "MC-00320-Material-composition-for-M80-510-series.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-5101442.pdf": null
+            },
+            "Symbol & Footprint": {
+                "KiCad": {
+                    "M80-5101442.dcm": null,
+                    "M80-5101442.kicad_sym": null,
+                    "M80-5101442.lib": null,
+                    "M80-5101442.mod": null,
+                    "M80-51014YY.kicad_mod": null
+                }
+            },
+            "Testing": {
+                "HT001-Test-Report-HT001-Datamate-Mechanical-Endurance-number-of-cycles-up-to-10-000.pdf": null,
+                "HT002-Test-Report-HT002-Datamate-Voltage-Proof-Voltage-Flashover-and-Insulation-Resistance.pdf": null,
+                "HT004-Test-Report-HT004-Datamate-J-Tek-Environmental-Vibration-Shock-Bump-Acceleration-and-other-tests.pdf": null,
+                "HT015-Test-Report-HT015-Datamate-Environmental-Vibration-Shock-Bump-J-Tek-and-101Lok.pdf": null,
+                "HT017-Test-Report-HT017-Datamate-L-Tek-Contact-Resistance-after-3-and-15-years-Artificial-Aging.pdf": null,
+                "HT019-Test-Report-HT019-Datamate-Frequency-Testing-to-EIA-364-108-2000-2007-USB2-0.pdf": null,
+                "HT025-Test-Report-HT025-Datamate-L-Tek-Environmental-Detailed-Vibration-Shock-and-Bump.pdf": null
+            }
+        },
+        "GPN-0000-1974": {
+            "GPN-0000-1974 Datasheet.pdf": null,
+            "GPN-0000-1974 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1975": {
+            "GPN-0000-1975 Datasheet.pdf": null,
+            "GPN-0000-1975 ROHS Certificate.pdf": null
+        },
+        "GPN-0000-1976": {
+            "3D": {
+                "SSQ-120-01-L-D.stp": null
+            },
+            "GPN-0000-1976 Datasheet.pdf": null,
+            "GPN-0000-1976 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1979": {
+            "GPN-0000-1979 Datasheet.pdf": null,
+            "GPN-0000-1979 ROHS_Certificate.pdf": null,
+            "tsw-xxx-xx-x-x-xx-xxx-footprint.pdf": null
+        },
+        "GPN-0000-1984": {
+            "GPN-0000-1984 Datasheet.pdf": null,
+            "GPN-0000-1984 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-1985": {
+            "2D Drawing": {
+                "DRG-01214-Technical-Drawing-Datasheet-M80-5000000M1-XX-XXX-00-000-pdf.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1985_M80-5000000M1-04-331-00-000.stp": null
+            },
+            "C005-C005XX-Component-Specification-Datamate-M80-and-M83-Series-2-00mm-4-00mm-pitch-High-Reliability.pdf": null,
+            "DOUT-Outgassing-data-for-Harwin-products-plastics.pdf": null,
+            "DPTDMSPEC-Plating-thickness-on-Datamate-power-and-coax-contacts.pdf": null,
+            "Environmental": {
+                "CMRT-C-Conflict-Minerals-Reporting-Template-CMRT-Company-Summary-Statement.xlsx": null,
+                "CRT-C-Extended-Mineral-Reporting-Template-EMRT-Company-Summary-Statement.xlsx": null,
+                "HF333-Environmental-Legislation-Statement-includes-all-material-legislations.pdf": null,
+                "REACH-REACH-Harwin-statement-including-all-current-SVHCs-Annex-XIV-XVII.pdf": null,
+                "RoHS-M80-5000000M1-04-331-00-000.pdf": null
+            },
+            "PD003-Product-Datasheet-Datamate-Mix-Tek-range-HRi.pdf": null,
+            "Symbol & Footprint": {
+                "KiCADv6": {
+                    "2024-08-14_11-23-35.kicad_sym": null,
+                    "footprints.pretty": {
+                        "M80-5000000M2-04-331-00-000_HRW.kicad_mod": null
+                    }
+                }
+            },
+            "Testing": {
+                "HT001-Test-Report-HT001-Datamate-Mechanical-Endurance-number-of-cycles-up-to-10-000.pdf": null,
+                "HT002-Test-Report-HT002-Datamate-Voltage-Proof-Voltage-Flashover-and-Insulation-Resistance.pdf": null,
+                "HT004-Test-Report-HT004-Datamate-J-Tek-Environmental-Vibration-Shock-Bump-Acceleration-and-other-tests.pdf": null,
+                "HT015-Test-Report-HT015-Datamate-Environmental-Vibration-Shock-Bump-J-Tek-and-101Lok.pdf": null,
+                "HT017-Test-Report-HT017-Datamate-L-Tek-Contact-Resistance-after-3-and-15-years-Artificial-Aging.pdf": null,
+                "HT020-Test-Report-HT020-Datamate-Mix-Tek-Special-Contacts-Environmental-Mechanical-and-Electrical.pdf": null,
+                "HT035-Test-Report-HT035-Datamate-Mix-Tek-Power-Connectors-Mechanical-and-Electrical.pdf": null,
+                "HT078-Test-Report-HT078-Datamate-Mix-Tek-20A-Power-testing.pdf": null
+            }
+        },
+        "GPN-0000-1996": {
+            "2D Drawing": {
+                "ENG_CD_2176231_BA.pdf": null
+            },
+            "3D CAD": {
+                "GPN-0000-1996_352210RFT.stp": null
+            },
+            "Datasheet_2007092.pdf": null,
+            "Symbol & Footprint": {
+                "KiCad": {
+                    "352210RFT.dcm": null,
+                    "352210RFT.kicad_sym": null,
+                    "352210RFT.lib": null,
+                    "352210RFT.mod": null,
+                    "RESC6432X120N.kicad_mod": null
+                }
+            }
+        },
+        "GPN-0000-1997": {
+            "3D CAD": {
+                "PAT0603E4000BST1.stp": null
+            },
+            "Datasheet_3822426.pdf": null,
+            "rohsCert_4260802.pdf": null,
+            "Symbol & Footprint": {
+                "PAT0603E4000BST1.dcm": null,
+                "PAT0603E4000BST1.kicad_sym": null,
+                "PAT0603E4000BST1.lib": null,
+                "PAT0603E4000BST1.mod": null,
+                "RESC1608X46N.kicad_mod": null
+            }
+        },
+        "GPN-0000-1998": {
+            "3D": {
+                "CRCW0805470RFKEA.stp": null
+            },
+            "Datasheet_2310790.pdf": null,
+            "KiCad": {
+                "CRCW0805470RFKEA.dcm": null,
+                "CRCW0805470RFKEA.kicad_sym": null,
+                "CRCW0805470RFKEA.lib": null,
+                "CRCW0805470RFKEA.mod": null,
+                "RESC2012X50N.kicad_mod": null
+            },
+            "rohsCert_1469932.pdf": null
+        },
+        "GPN-0000-1999": {
+            "3D": {
+                "CRCW08059K10FKEA.stp": null
+            },
+            "Datasheet_2310790.pdf": null,
+            "rohsCert_1653046.pdf": null,
+            "Symbol & Footprint": {
+                "CRCW08059K10FKEA.dcm": null,
+                "CRCW08059K10FKEA.kicad_sym": null,
+                "CRCW08059K10FKEA.lib": null,
+                "CRCW08059K10FKEA.mod": null,
+                "RESC2012X50N.kicad_mod": null
+            }
+        },
+        "GPN-0000-2000": {
+            "3D": {
+                "CRCW120610R0FKEAHP.stp": null
+            },
+            "Datasheet_3973283.pdf": null,
+            "KiCad": {
+                "CRCW120610R0FKEAHP.dcm": null,
+                "CRCW120610R0FKEAHP.kicad_sym": null,
+                "CRCW120610R0FKEAHP.lib": null,
+                "CRCW120610R0FKEAHP.mod": null,
+                "RESC3116X65N.kicad_mod": null
+            },
+            "rohsCert_1738986.pdf": null
+        },
+        "GPN-0000-2002": {
+            "GPN-0000-2002 Datasheet.pdf": null,
+            "GPN-0000-2002 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2003": {
+            "GPN-0000-2003 Datasheet.pdf": null,
+            "GPN-0000-2003 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2005": {
+            "3D CAD": {
+                "GPN-0000-2005_734-232.stp": null
+            },
+            "GPN-0000-2005 Datasheet.pdf": null,
+            "GPN-0000-2005 ROHS_Certificate.pdf": null,
+            "Symbol & Footprint": {
+                "2024-08-19_12-48-16.kicad_sym": null,
+                "footprints.pretty": {
+                    "CONN2_734-232_WAG.kicad_mod": null
+                },
+                "ImportGuide.html": null
+            }
+        },
+        "GPN-0000-2008": {
+            "3D": {
+                "SSQ-120-03-T-D.step": null
+            },
+            "Datasheet.pdf": null,
+            "Symbol & Footprint": {
+                "SAMTEC_SSQ-120-03-T-D.kicad_mod": null,
+                "SSQ-120-03-T-D.kicad_sym": null
+            }
+        },
+        "GPN-0000-2019": {
+            "GPN-0000-2019 Datasheet.pdf": null,
+            "GPN-0000-2019 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2026": {
+            "ds16003 (1).pdf": null
+        },
+        "GPN-0000-2028": {
+            "3D CAD": {
+                "3522ZR.stp": null
+            },
+            "Datasheet_2007092.pdf": null,
+            "Symbols & Footprints": {
+                "3522ZR.epw": null,
+                "3D": {
+                    "3522ZR.stp": null
+                },
+                "Allegro": {
+                    "r340_240.pad": null,
+                    "RESC6432X120N.dra": null,
+                    "resc6432x120n.psm": null
+                },
+                "Altium": {
+                    "3522ZR.epw": null,
+                    "3522ZR.SchLib": null,
+                    "Readme.html": null,
+                    "RESC6432X120N.PcbLib": null
+                },
+                "CADSTAR": {
+                    "3522ZR.csa": null,
+                    "3522ZR.lib": null,
+                    "RESC6432X120N.cpa": null
+                },
+                "Capture": {
+                    "3522ZR.xml": null
+                },
+                "CircuitStudio": {
+                    "3522ZR.lbr": null
+                },
+                "CR-5000": {
+                    "3522ZR.cdf": null,
+                    "3522ZR.laf": null,
+                    "RESC6432X120N.ftf": null,
+                    "RESC6432X120N.pkf": null
+                },
+                "CR-8000": {
+                    "3522ZR.cdf": null,
+                    "3522ZR.laf": null,
+                    "RESC6432X120N.ftf": null,
+                    "RESC6432X120N.pkf": null
+                },
+                "DEHDL": {
+                    "3522zr": {
+                        "chips": {
+                            "chips.prt": null
+                        },
+                        "part_table": {
+                            "part.ptf": null
+                        },
+                        "sym_1": {
+                            "symbol.css": null
+                        }
+                    }
+                },
+                "DesignSpark PCB": {
+                    "3522ZR.dsl": null,
+                    "Readme.html": null
+                },
+                "DesignSpark PCB PRO": {
+                    "3522ZR.dsl": null
+                },
+                "DipTrace": {
+                    "3522ZR.asc": null
+                },
+                "EAGLE": {
+                    "3522ZR.lbr": null,
+                    "Readme.html": null
+                },
+                "Easy-PC": {
+                    "3522ZR.epl": null
+                },
+                "EasyEDA": {
+                    "3522ZR.lbr": null,
+                    "Readme.html": null
+                },
+                "eCADSTAR": {
+                    "3522ZR.parta": null,
+                    "3522ZR.symba": null,
+                    "RESC6432X120N.foota": null,
+                    "RESC6432X120N.packa": null
+                },
+                "How_To_Use_Models.pdf": null,
+                "KiCad": {
+                    "3522ZR.dcm": null,
+                    "3522ZR.kicad_sym": null,
+                    "3522ZR.lib": null,
+                    "3522ZR.mod": null,
+                    "RESC6432X120N.kicad_mod": null
+                },
+                "OrCAD_Allegro16": {
+                    "3522ZR.edf": null,
+                    "BuildFootprint.bat": null,
+                    "EDI2CAP.CFG": null,
+                    "footprint.scr": null,
+                    "padstack1.scr": null
+                },
+                "PADS": {
+                    "3522ZR.asc": null,
+                    "3522ZR.c": null,
+                    "3522ZR.p": null,
+                    "RESC6432X120N.d": null
+                },
+                "part_info.txt": null,
+                "Proteus": {
+                    "3522ZR.pdif": null,
+                    "3522ZR.pdspart": null,
+                    "8.8 or earlier": {
+                        "Readme.html": null
+                    },
+                    "8.9 or later": {
+                        "Readme.html": null
+                    }
+                },
+                "Pulsonix": {
+                    "3522ZR.plx": null
+                },
+                "Quadcept": {
+                    "3522ZR.xml": null
+                },
+                "SOLIDWORKS PCB": {
+                    "3522ZR.lbr": null
+                },
+                "TARGET 3001!": {
+                    "3522ZR.cxf": null
+                },
+                "xDX Designer": {
+                    "3522ZR.1": null
+                },
+                "Xpedition": {
+                    "3522ZR.1": null,
+                    "cell.hkp": null,
+                    "padstacks.hkp": null,
+                    "pdb.hkp": null
+                }
+            }
+        },
+        "GPN-0000-2029": {
+            "GPN-0000-2029 Datasheet.pdf": null,
+            "GPN-0000-2029_ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2030": {
+            "GPN-0000-2030 Datasheet.pdf": null,
+            "GPN-0000-2030 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2036": {
+            "GPN-0000-2036 Datasheet.pdf": null,
+            "GPN-0000-2036 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2037": {
+            "3D CAD": {
+                "TSW-108-07-G-D.stp": null
+            },
+            "Datasheet_tsw_th-2854687.pdf": null,
+            "Symbol & Footprint": {
+                "KiCad": {
+                    "HDRV16W64P254_2X8_2032X508X838P.kicad_mod": null,
+                    "TSW-108-07-G-D.dcm": null,
+                    "TSW-108-07-G-D.kicad_sym": null,
+                    "TSW-108-07-G-D.lib": null,
+                    "TSW-108-07-G-D.mod": null
+                }
+            }
+        },
+        "GPN-0000-2038": {
+            "3D CAD": {
+                "CRCW12060000Z0EAHP.stp": null
+            },
+            "Datasheet_3998222.pdf": null,
+            "Symbol & Footprint": {
+                "KiCad": {
+                    "CRCW12060000Z0EAHP.dcm": null,
+                    "CRCW12060000Z0EAHP.kicad_sym": null,
+                    "CRCW12060000Z0EAHP.lib": null,
+                    "CRCW12060000Z0EAHP.mod": null,
+                    "RESC3116X65N.kicad_mod": null
+                }
+            }
+        },
+        "GPN-0000-2066": {
+            "GPN-0000-2066 Datasheet.pdf": null,
+            "GPN-0000-2066 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2067": {
+            "GPN-0000-2067 Datasheet.pdf": null,
+            "GPN-0000-2067 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2068": {
+            "GPN-0000-2068 Datasheet.pdf": null,
+            "GPN-0000-2068 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2069": {
+            "GPN-0000-2069 Datasheet.pdf": null,
+            "GPN-0000-2069 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2070": {
+            "GPN-0000-2070 Datasheet.pdf": null,
+            "GPN-0000-2070 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2071": {
+            "GPN-0000-2071 Datasheet.pdf": null,
+            "GPN-0000-2071 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2072": {
+            "GPN-0000-2072 Datasheet.pdf": null,
+            "GPN-0000-2072 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2073": {
+            "GPN-0000-2073 Datasheet.pdf": null,
+            "GPN-0000-2073 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2074": {
+            "GPN-0000-2074 Datasheet.pdf": null,
+            "GPN-0000-2074 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2075": {
+            "GPN-0000-2075 Datasheet.pdf": null,
+            "GPN-0000-2075 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2076": {
+            "GPN-0000-2076 Datasheet.pdf": null,
+            "GPN-0000-2076 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2077": {
+            "GPN-0000-2077 Datasheet.pdf": null,
+            "GPN-0000-2077 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2078": {
+            "GPN-0000-2078 DATASHEET.pdf": null,
+            "GPN-0000-2078 ROHS CERTIFICATE.pdf": null
+        },
+        "GPN-0000-2079": {
+            "GPN-0000-2079 ROHS CERTIFICATE.pdf": null,
+            "GPN-0000-2079.pdf": null
+        },
+        "GPN-0000-2080": {
+            "GPN-0000-2080 Datasheet.pdf": null,
+            "GPN-0000-2080 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2081": {
+            "GPN-0000-2081 ROHS CERTIFICATE.pdf": null,
+            "GPN-0000-2081.pdf": null
+        },
+        "GPN-0000-2082": {
+            "GPN-0000-2082 ROHS CERTIFICATE.pdf": null,
+            "GPN-0000-2082.pdf": null
+        },
+        "GPN-0000-2084": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2085": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2086": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2087": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2088": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2089": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2090": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2091": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2092": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2093": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2094": {
+            "Datasheet.pdf": null
+        },
+        "GPN-0000-2095": {
+            "Datasheet.pdf": null,
+            "Dimension Drawing.pdf": null,
+            "RoHS Compliance.pdf": null
+        },
+        "GPN-0000-2096": {
+            "Datasheet.pdf": null,
+            "ROHS Compliance.pdf": null
+        },
+        "GPN-0000-2218": {
+            "GPN-0000-2218 Datasheet.pdf": null,
+            "GPN-0000-2218 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2219": {
+            "GPN-0000-2219 Datasheet.pdf": null,
+            "GPN-0000-2219 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2220": {
+            "GPN-0000-2220 Datasheet.pdf": null,
+            "GPN-0000-2220 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2252": {
+            "GPN-0000-2252 Datasheet.pdf": null
+        },
+        "GPN-0000-2262": {
+            "GPN-0000-2262 Datasheet.pdf": null
+        },
+        "GPN-0000-2263": {
+            "GPN-0000-2263 Datasheet.pdf": null,
+            "GPN-0000-2263 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2268": {
+            "GPN-0000-2268 Datasheet.pdf": null
+        },
+        "GPN-0000-2270": {
+            "GPN-0000-2270 Datasheet.pdf": null,
+            "GPN-0000-2270 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2271": {
+            "GPN-0000-2271 Datasheet.pdf": null
+        },
+        "GPN-0000-2275": {
+            "GPN-0000-2275 Datasheet.pdf": null,
+            "GPN-0000-2275 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2282": {},
+        "GPN-0000-2283": {
+            "GPN-0000-2283 Datasheet.pdf": null
+        },
+        "GPN-0000-2287": {
+            "GPN-0000-2287 Datasheet.pdf": null,
+            "GPN-0000-2287 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2298": {
+            "GPN-0000-2298 Datasheet.PDF": null,
+            "GPN-0000-2298 ROHS_Certificate.PDF": null
+        },
+        "GPN-0000-2303": {
+            "GPN-0000-2303 Datasheet.pdf": null,
+            "GPN-0000-2303 ROHS_Certificate.pdf": null,
+            "GPN-0000-2303 Technical Drawing.pdf": null
+        },
+        "GPN-0000-2307": {
+            "GPN-0000-2307 Datasheet.pdf": null,
+            "GPN-0000-2307 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2308": {
+            "GPN-0000-2308 Datasheet.pdf": null,
+            "GPN-0000-2308 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2309": {
+            "GPN-0000-2309 Datasheet.pdf": null,
+            "GPN-0000-2309 Datasheet2.pdf": null,
+            "GPN-0000-2309 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2310": {
+            "GPN-0000-2310 Datasheet.pdf": null,
+            "GPN-0000-2310 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2311": {
+            "GPN-0000-2311 Datasheet.pdf": null,
+            "GPN-0000-2311 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2312": {
+            "GPN-0000-2312 Datasheet.pdf": null,
+            "ROHS": {
+                "YAGEO COC_REACH SVHC 241_R-Chip_TW_20240701.pdf": null,
+                "YAGEO COC_REACH_SVHC 241_SZ R-Chip_20240628.pdf": null,
+                "Yageo Rchip Rohs 2.0 COC With Exemption20240513(SZ).pdf": null,
+                "Yageo Rchip Rohs 2.0 COC Without Exemption20240205(TW).pdf": null,
+                "Yageo Rchip Rohs 2.0 COC Without Exemption20240513(SZ).pdf": null
+            }
+        },
+        "GPN-0000-2313": {
+            "GPN-0000-2313 Datasheet.pdf": null,
+            "GPN-0000-2313 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2314": {
+            "GPN-0000-2314 Datasheet.pdf": null,
+            "GPN-0000-2314 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2315": {
+            "GPN-0000-2315 Datasheet.pdf": null,
+            "GPN-0000-2315 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2324": {
+            "GPN-0000-2324 Datasheet.pdf": null,
+            "GPN-0000-2324 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2325": {
+            "GPN-0000-2325 Datasheet.pdf": null,
+            "GPN-0000-2325 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2326": {
+            "GPN-0000-2326 Datasheet.pdf": null,
+            "GPN-0000-2326 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2327": {
+            "GPN-0000-2327 Datasheet.pdf": null,
+            "GPN-0000-2327 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2328": {
+            "GPN-0000-2328 Datasheet.pdf": null,
+            "GPN-0000-2328 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2329": {
+            "GPN-0000-2329 Datasheet.pdf": null,
+            "GPN-0000-2329 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2338": {
+            "GPN-0000-2338 Datasheet.pdf": null,
+            "GPN-0000-2338 ROHS_Certificate.pdf": null
+        },
+        "GPN-0000-2341": {
+            "GPN-0000-2341 Datasheet.pdf": null,
+            "GPN-0000-2341 ROHS_Certificate.pdf": null
+        }
+    },
+    "Mechanical": {
+        "GPN-0000-2228": {
+            "GPN-0000-2228.png": null
+        }
+    },
+    "Tools": {
+        "GTL-0000-0043": {
+            "GTL-0000-0043 Datasheet.pdf": null
+        },
+        "GTL-0000-0044": {
+            "GTL-0000-0044 Datasheet.pdf": null
+        },
+        "GTL-0000-0045": {
+            "GTL-0000-0045 Datasheet.pdf": null
+        },
+        "GTL-0000-0049": {
+            "GTL-0000-0049 Datasheet (2).pdf": null,
+            "GTL-0000-0049 Datasheet.pdf": null
+        },
+        "GTL-0000-0051": {},
+        "GTL-0000-0052": {},
+        "GTL-0000-0053": {},
+        "GTL-0000-0054": {},
+        "GTL-0000-0055": {},
+        "GTL-0000-0056": {},
+        "GTL-0000-0057": {
+            "0900766b813e5888.pdf": null,
+            "2D Drawing_0900766b81388745.pdf": null,
+            "Instructions_A700000007131946.pdf": null
+        }
+    }
+}
